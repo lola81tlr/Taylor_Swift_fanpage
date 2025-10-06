@@ -4,4 +4,4 @@ Fun fact about this album: it is the only album in her discography that she wrot
 
 This album reflects her transition from adolescence to adulthood, and fans find it very relatable.
 
-She toured this album from February 2011 to March 2012, and this is her first album to diverge from her previous country style.
+She toured this album from February 2011 to March 2012, and this is her first album to diverge from her previous country style. According to *Big Machine Records*, her recording studio at the time, *Speak Now* sold over 5.8 million copies worldwide.
