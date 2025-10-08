@@ -1,1 +1,53 @@
+/* General Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
+body {
+  font-family: 'Helvetica Neue', sans-serif;
+  background: #fef9f6;
+  color: #2b2b2b;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+header {
+  background-color: #f76c5e; /* Orange */
+  color: white;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+main {
+  max-width: 800px;
+  margin: auto;
+  background: #e0f7fa; /* Light Teal */
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+h1, h2, h3 {
+  color: #00796b; /* Dark Teal */
+  margin-top: 20px;
+}
+
+a {
+  color: #f76c5e;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+footer {
+  margin-top: 40px;
+  text-align: center;
+  color: #555;
+  font-size: 0.9rem;
+}
