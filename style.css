@@ -1,13 +1,21 @@
 body {
-  background-color: #FFA500; /* Orange */
-  color: #008080; /* Teal text */
+  background-color: #E15921; /* Orange base */
+  background-image: 
+    repeating-linear-gradient(45deg, #E15921, #E15921 20px, #FFD580 20px, #FFD580 22px, #E15921 22px, #FFA500 40px),
+    radial-gradient(circle at 10% 20%, #fff6 2px, transparent 4px),
+    radial-gradient(circle at 70% 80%, #fff8 1.5px, transparent 3px),
+    radial-gradient(circle at 50% 50%, #ffffff66 2px, transparent 3px),
+    radial-gradient(circle at 80% 40%, #ffecb3aa 1.5px, transparent 3px);
+  background-size: cover, 100px 100px, 80px 80px, 50px 50px, 90px 90px;
+background-color: #E15921; /* Orange */
+  color: #3F816C; /* Teal text */
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
 }
 
 header, h1, h2 {
-  background-color: #008080; /* Teal */
+  background-color: #3F816C; /* Teal */
   color: #FFA500; /* Orange text */
   padding: 20px;
   text-align: center;
@@ -16,16 +24,16 @@ header, h1, h2 {
 
 main, .content, p {
   background-color: white;
-  color: #008080; /* Teal text */
+  color: #3F816C; /* Teal text */
   margin: 20px auto;
   padding: 20px;
   border-radius: 12px;
   max-width: 600px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.08);
-  border: 2px solid #008080;
+  border: 2px solid #3F816C;
 }
 
 a {
-  color: #008080;
+  color: #3F816C;
   font-weight: bold;
 }
