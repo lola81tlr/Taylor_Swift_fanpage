@@ -1,42 +1,126 @@
 ---
-title: "Speak Now"
+title: "Speak Now & Speak Now (Taylor’s Version)"
 layout: default
-album_color: "#7D3C98"   # purple-ish for Speak Now
+album_colour: "#7D3C98"
 album_font: "'Playfair Display', serif"
 font_link: "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap"
-cover_image: "/assets/images/speak_now.jpg"
+speak_now_cover: "/assets/images/speak_now.jpg"
+speak_now_tv_cover: "/assets/images/speak_now_tv.jpg"
 ---
 
-![Speak Now cover](/assets/images/speak_now.jpg){: .cover }
+<div style="text-align: centre;">
+  <a href="#speak-now-2010">
+    <img src="{{ page.speak_now_cover }}" alt="Speak Now album cover" style="width: 280px; border-radius: 12px; margin: 10px;">
+  </a>
+  <a href="#speak-now-tv-2023">
+    <img src="{{ page.speak_now_tv_cover }}" alt="Speak Now (Taylor’s Version) album cover" style="width: 280px; border-radius: 12px; margin: 10px;">
+  </a>
+</div>
 
-### About the album
-<!-- Replace this placeholder with a 10-line paragraph about the album, its themes, and writers/co-writers.
-     Tip: Aim for ~10 lines by writing 3–4 short sentences. Include a final sentence like:
-     "Writers/co-writers: Taylor Swift; [list others]." -->
+---
 
-*Write your 10-line paragraph here — one paragraph (about 10 lines) describing what this album is about and noting the writer(s)/co-writers.*
+## <a id="speak-now-2010"></a>Speak Now — 2010
 
-### Track highlights
-- Mine
-- Sparks Fly
-- Back To December
-- Speak Now
-- Dear John
-- Mean
-- The Story Of Us
-- Never Grow Up
-- Enchanted
-- Better Than Revenge
-- Innocent
-- Haunted
-- Last Kiss
-- Long Live
-- Ours (Taylor's Version) (From the Vault)
-- Superman (Taylor's Version) (From the Vault)
-- Electric Touch (Taylor's Version) (From the Vault)
-- When Emma Falls in Love (Taylor's Version) (From the Vault)
-- I Can See You (Taylor's Version) (From the Vault)
-- Castles Crumbling (ft. Hayley Williams) (Taylor's Version) (From the Vault)
-- Foolish One (Taylor's Version) (From the Vault)
-- Timeless (Taylor's Version) (From the Vault)
+Released in 2010, *Speak Now* stands as Taylor Swift’s boldest creative leap — an album written entirely by Swift herself at just twenty years old. It’s a record fuelled by emotion, introspection, and theatrical flair, capturing the transition from adolescence to adulthood with striking honesty and grace.  
 
+Musically, *Speak Now* blends country-pop and orchestral rock, featuring sweeping arrangements and poetic storytelling. Each song unfolds like a personal letter — unfiltered, vulnerable, and self-assured. Tracks like *Back to December*, *Enchanted*, and *Dear John* reveal an artist baring her soul without hesitation, crafting vivid narratives around love, regret, and self-realisation.  
+
+Critically acclaimed and adored by fans, *Speak Now* showcased Taylor’s maturity as a lyricist and composer. It celebrated not only her growth as a musician but her ability to connect deeply with listeners through truth-telling — a defining trait of her career. The album’s aesthetic — drenched in shades of purple and fairytale imagery — became an iconic symbol of transformation and emotional independence.
+
+---
+
+## <a id="speak-now-tv-2023"></a>Speak Now (Taylor’s Version) — 2023
+
+In July 2023, Taylor Swift reintroduced her third studio album as *Speak Now (Taylor’s Version)*, revisiting the project that defined her storytelling prowess. This re-recording reimagines the original with warmer production and matured vocals, allowing Swift to reclaim ownership of one of her most personal records.  
+
+*Speak Now (Taylor’s Version)* preserves the confessional intimacy of the original while introducing six *From the Vault* tracks — songs written during the same era but previously unreleased. These vault tracks, featuring collaborations with Hayley Williams and Fall Out Boy, expand the emotional range of the album, offering both nostalgia and new revelations.  
+
+The re-recording not only celebrates Taylor’s artistic evolution but also her perseverance and autonomy. It serves as a love letter to her younger self — the girl who dared to write her truth — and to the fans who have grown alongside her.
+
+---
+
+<style>
+  .tracklist-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 40px;
+    margin-top: 30px;
+  }
+  .tracklist {
+    flex: 1;
+    min-width: 260px;
+    background-color: #f6f0fb;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  .tracklist h3 {
+    text-align: centre;
+    colour: #7D3C98;
+    margin-bottom: 10px;
+  }
+  .tracklist ul {
+    list-style: none;
+    padding-left: 0;
+    line-height: 1.7;
+  }
+  .tracklist li::before {
+    content: "☆ ";
+    colour: #7D3C98;
+    font-weight: bold;
+  }
+</style>
+
+<div class="tracklist-container">
+  <div class="tracklist">
+    <h3>Speak Now (2010)</h3>
+    <ul>
+      <li>Mine</li>
+      <li>Sparks Fly</li>
+      <li>Back to December</li>
+      <li>Speak Now</li>
+      <li>Dear John</li>
+      <li>Mean</li>
+      <li>The Story of Us</li>
+      <li>Never Grow Up</li>
+      <li>Enchanted</li>
+      <li>Better Than Revenge</li>
+      <li>Innocent</li>
+      <li>Haunted</li>
+      <li>Last Kiss</li>
+      <li>Long Live</li>
+      <li>Ours</li>
+      <li>If This Was a Movie</li>
+      <li>Superman</li>
+    </ul>
+  </div>
+
+  <div class="tracklist">
+    <h3>Speak Now (Taylor’s Version) — 2023</h3>
+    <ul>
+      <li>Mine (Taylor’s Version)</li>
+      <li>Sparks Fly (Taylor’s Version)</li>
+      <li>Back to December (Taylor’s Version)</li>
+      <li>Speak Now (Taylor’s Version)</li>
+      <li>Dear John (Taylor’s Version)</li>
+      <li>Mean (Taylor’s Version)</li>
+      <li>The Story of Us (Taylor’s Version)</li>
+      <li>Never Grow Up (Taylor’s Version)</li>
+      <li>Enchanted (Taylor’s Version)</li>
+      <li>Better Than Revenge (Taylor’s Version)</li>
+      <li>Innocent (Taylor’s Version)</li>
+      <li>Haunted (Taylor’s Version)</li>
+      <li>Last Kiss (Taylor’s Version)</li>
+      <li>Long Live (Taylor’s Version)</li>
+      <li>Ours (Taylor’s Version)</li>
+      <li>Superman (Taylor’s Version)</li>
+      <li>Electric Touch (From the Vault) [feat. Fall Out Boy]</li>
+      <li>When Emma Falls in Love (From the Vault)</li>
+      <li>I Can See You (From the Vault)</li>
+      <li>Castles Crumbling (From the Vault) [feat. Hayley Williams]</li>
+      <li>Foolish One (From the Vault)</li>
+      <li>Timeless (From the Vault)</li>
+    </ul>
+  </div>
+</div>
