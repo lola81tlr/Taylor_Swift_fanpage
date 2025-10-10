@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>{{ page.title | default: site.title }}</title>
+
+  {% if page.font_link %}
+  <link href="{{ page.font_link }}" rel="stylesheet">
+  {% endif %}
+
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+  <style>
+    :root{
+      --accent: {{ page.album_color | default: '#b34f9a' }};
+      --album-font: {{ page.album_font | default: "'Inter', sans-serif" }};
+    }
+    body { font-family: var(--album-font); }
+    .accent { color: var(--accent); }
+    .accent-bg { background-color: var(--accent); }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+      <nav class="main-nav">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        {% for p in site.pages %}
+          {% if p.path contains 'albums/' %}
+            <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+          {% endif %}
+        {% endfor %}
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer container">
+    <p>Built with ❤️ — your fan site</p>
+  </footer>
+</body>
+</html>
