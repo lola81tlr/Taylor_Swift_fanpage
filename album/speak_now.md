@@ -4,10 +4,10 @@ layout: default
 album_color: "#7D3C98"   # purple-ish for Speak Now
 album_font: "'Playfair Display', serif"
 font_link: "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap"
-cover_image: "/assets/images/speak-now.jpg"
+cover_image: "/assets/images/speak_now.jpg"
 ---
 
-![Speak Now cover]({{ page.cover_image }}){: .cover }
+![Speak Now cover](/assets/images/speak_now.jpg){: .cover }
 
 ### About the album
 <!-- Replace this placeholder with a 10-line paragraph about the album, its themes, and writers/co-writers.
