@@ -1,1 +1,6 @@
+title: "Taylor Swift — Fan Site"
+description: "A fan site built with Markdown & GitHub Pages"
+baseurl: ""    # leave empty for user site
+url: "https://lola81tlr.github.io"  
+markdown: kramdown
 
