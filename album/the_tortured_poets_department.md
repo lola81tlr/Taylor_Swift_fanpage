@@ -20,7 +20,7 @@ Working again with Jack Antonoff and Aaron Dessner, Swift crafts a sonic world t
 
 ## Tracklists  
 
-<div class="tracklists">
+<div class="tracklists-grid">
 
 <div class="album-section">
   <div class="album-header">
@@ -31,7 +31,7 @@ Working again with Jack Antonoff and Aaron Dessner, Swift crafts a sonic world t
   <ul style="font-family: 'Merriweather', serif; color: #6B0F1A;">
     <li>☆ Fortnight (feat. Post Malone)</li>
     <li>☆ The Tortured Poets Department</li>
-    <li>☆ My Boy Only Breaks His Favorite Toys</li>
+    <li>☆ My Boy Only Breaks His Favourite Toys</li>
     <li>☆ Down Bad</li>
     <li>☆ So Long, London</li>
     <li>☆ But Daddy I Love Him</li>
@@ -94,11 +94,27 @@ Together, they complete Swift’s most literary and self-referential work to dat
   margin-bottom: 0.5rem;
 }
 .mini-cover {
-  width: 80px;
+  width: 120px;
   border-radius: 8px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.25);
 }
 .album-section {
-  margin-bottom: 2rem;
+  background-color: #fdfaf9;
+  padding: 1rem;
+  border-radius: 12px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+}
+.tracklists-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+}
+@media (min-width: 900px) {
+  .tracklists-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+  .mini-cover {
+    width: 120px;
+  }
 }
 </style>
