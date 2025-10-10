@@ -21,21 +21,26 @@ Produced with the help of Nathan Chapman, *Taylor Swift* set the tone for a care
 
 ---
 
-## Deluxe Edition Tracklist
+## Tracklists  
 
-☆ Tim McGraw  
-☆ Picture to Burn  
-☆ Teardrops on My Guitar  
-☆ A Place in This World  
-☆ Cold as You  
-☆ The Outside  
-☆ Tied Together with a Smile  
-☆ Stay Beautiful
-☆ Should've Said No
-☆ Mary's Song (Oh My My My)
-☆ Our Song
-☆ I'm Only Me When I'm With You
-☆ Invisible
-☆ A Perfectly Good Heart
+<div class="tracklists">
 
+<div>
+<h3><em>1989 (2014)</em></h3>
 
+<ul>
+<li>Tim McGraw</li>
+<li>Picture To Burn</li>
+<li>Teardrops on My Guitar</li>
+<li>A Place in This World</li>
+<li>Cold as You</li>
+<li>The Outside</li>
+<li>Tied Together with a Smile</li>
+<li>Stay Beautiful</li>
+<li>Sould've Said No</li>
+<li>Mary's Song (Oh My My My)</li>
+<li>Our Song</li>
+<li>I'm Only Me When I'm With You</li>
+<li>Invisible</li>
+<li>A Perfectly Good Heart</li>
+</ul>
