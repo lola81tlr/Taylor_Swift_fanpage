@@ -8,30 +8,114 @@ fearless_cover: "/assets/images/fearless.jpg"
 fearless_tv_cover: "/assets/images/fearless_tv.jpg"
 ---
 
-<div style="text-align: centre;">
-  <a href="#fearless-2008">
-    <img src="{{ page.fearless_cover }}" alt="Fearless album cover" style="width: 280px; border-radius: 12px; margin: 10px;">
-  </a>
-  <a href="#fearless-tv-2021">
-    <img src="{{ page.fearless_tv_cover }}" alt="Fearless (Taylor’s Version) album cover" style="width: 280px; border-radius: 12px; margin: 10px;">
-  </a>
+<div style="display: flex; justify-content: centre; gap: 20px; flex-wrap: wrap; align-items: centre;">
+  <img src="{{ page.fearless_cover }}" alt="Fearless album cover" style="width: 300px; border-radius: 12px;">
+  <img src="{{ page.fearless_tv_cover }}" alt="Fearless (Taylor’s Version) album cover" style="width: 300px; border-radius: 12px;">
 </div>
 
----
+## Fearless — 2008
 
-## <a id="fearless-2008"></a>Fearless — 2008
+Released in 2008, *Fearless* cemented Taylor Swift’s status as one of the defining voices of her generation. Building upon the country-pop foundation of her debut, the album expanded her sound and storytelling — pairing twangy guitars with sweeping melodies and cinematic lyrics about love, heartbreak, and growing up. *Fearless* captured both the innocence of youth and the boldness of first love, balancing vulnerability with confidence.
 
-Released in 2008, *Fearless* marked Taylor Swift’s transition from a promising young country artist to an international superstar. The album blends heartfelt country roots with sparkling pop melodies, crafting stories that speak to teenage love, heartbreak, and self-discovery. *Fearless* is a musical coming-of-age, capturing the optimism and courage of youth while exploring the complexities of growing up in the public eye.  
+The record’s themes of courage and romantic idealism resonated deeply with listeners, especially young women navigating their own emotional landscapes. Singles like *Love Story*, *You Belong With Me*, and *White Horse* became cultural touchstones, each one telling a vivid story rooted in fairy-tale imagery and emotional truth. Swift’s songwriting reached new heights, fusing personal reflection with universal relatability.
 
-Lyrically, the record is rich with vivid imagery — castles, white dresses, and heartbreak under the high school bleachers — all wrapped in melodies that have stood the test of time. Songs like *Love Story*, *You Belong With Me*, and *Fifteen* became cultural anthems, turning Taylor into a generational storyteller.  
-
-Critics praised *Fearless* for its emotional depth and catchy hooks, and the album went on to win **Album of the Year** at the Grammy Awards, making Swift the youngest artist ever to receive the honour at that time. It remains one of her most defining works, bridging country authenticity and pop ambition.
+*Fearless* was a critical and commercial triumph — winning **Album of the Year** at the Grammy Awards and earning praise for its honest lyrics and genre-blending style. It marked the moment Taylor Swift transcended country music, becoming a global pop phenomenon while maintaining her authentic voice.
 
 ---
 
-## <a id="fearless-tv-2021"></a>Fearless (Taylor’s Version) — 2021
+## Fearless (Taylor’s Version) — 2021
 
-In 2021, Taylor Swift re-recorded her second album as *Fearless (Taylor’s Version)*, reclaiming ownership of her work and revisiting the songs that first made her a household name. The re-recorded album preserves the original charm while adding a richer, more mature vocal tone and a polished production quality.  
+In 2021, Taylor Swift re-recorded and re-released her second studio album as *Fearless (Taylor’s Version)*. This reimagined project represented not only a reclaiming of her artistic ownership but also a celebration of her evolution as a songwriter and performer. With mature vocals, refined production, and six previously unreleased *From the Vault* tracks, the album offered fans both nostalgia and renewal.
 
-The project was both nostalgic and revolutionary — a statement of artistic independence that reignited fans’ connection to the early chapters of her career. *Fearless (Taylor’s Version)* also included six *From the Vault* tracks, previously unreleased gems that expanded the album’s story and gave fans a glimpse into Swift’s creat
+Swift’s approach to the re-recording was one of respect for her younger self — every song faithfully recreated, yet subtly enhanced by the warmth and clarity of her seasoned voice. *Fearless (Taylor’s Version)* stands as a symbol of empowerment, creative control, and the enduring power of music that grows with its listener.
 
+---
+
+<style>
+  .tracklist-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 40px;
+    margin-top: 30px;
+  }
+  .tracklist {
+    flex: 1;
+    min-width: 250px;
+    background-colour: #fff8e1;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  .tracklist h3 {
+    text-align: centre;
+    colour: #E6C06A;
+    margin-bottom: 10px;
+  }
+  .tracklist ul {
+    list-style: none;
+    padding-left: 0;
+    line-height: 1.7;
+  }
+  .tracklist li::before {
+    content: "☆ ";
+    colour: #E6C06A;
+  }
+</style>
+
+<div class="tracklist-container">
+  <div class="tracklist">
+    <h3>Fearless (2008)</h3>
+    <ul>
+      <li>Fearless</li>
+      <li>Fifteen</li>
+      <li>Love Story</li>
+      <li>Hey Stephen</li>
+      <li>White Horse</li>
+      <li>You Belong With Me</li>
+      <li>Breathe (feat. Colbie Caillat)</li>
+      <li>Tell Me Why</li>
+      <li>You’re Not Sorry</li>
+      <li>The Way I Loved You</li>
+      <li>Forever & Always</li>
+      <li>The Best Day</li>
+      <li>Change</li>
+      <li>Bonus: Jump Then Fall</li>
+      <li>Untouchable</li>
+      <li>Come In With the Rain</li>
+      <li>Superstar</li>
+      <li>The Other Side of the Door</li>
+    </ul>
+  </div>
+
+  <div class="tracklist">
+    <h3>Fearless (Taylor’s Version) — 2021</h3>
+    <ul>
+      <li>Fearless (Taylor’s Version)</li>
+      <li>Fifteen (Taylor’s Version)</li>
+      <li>Love Story (Taylor’s Version)</li>
+      <li>Hey Stephen (Taylor’s Version)</li>
+      <li>White Horse (Taylor’s Version)</li>
+      <li>You Belong With Me (Taylor’s Version)</li>
+      <li>Breathe (Taylor’s Version) [feat. Colbie Caillat]</li>
+      <li>Tell Me Why (Taylor’s Version)</li>
+      <li>You’re Not Sorry (Taylor’s Version)</li>
+      <li>The Way I Loved You (Taylor’s Version)</li>
+      <li>Forever & Always (Taylor’s Version)</li>
+      <li>The Best Day (Taylor’s Version)</li>
+      <li>Change (Taylor’s Version)</li>
+      <li>Jump Then Fall (Taylor’s Version)</li>
+      <li>Untouchable (Taylor’s Version)</li>
+      <li>Come In With the Rain (Taylor’s Version)</li>
+      <li>Superstar (Taylor’s Version)</li>
+      <li>The Other Side of the Door (Taylor’s Version)</li>
+      <li>Today Was a Fairytale (Taylor’s Version)</li>
+    <li>You All Over Me (Taylor’s Version) (From The Vault) [feat. Maren Morris]</li>
+    <li>Mr. Perfectly Fine (Taylor’s Version) (From The Vault)</li>
+    <li>We Were Happy (Taylor’s Version) (From The Vault)</li>
+    <li>That’s When (Taylor’s Version) (From The Vault) [feat. Keith Urban]</li>
+    <li>Don’t You (Taylor’s Version) (From The Vault)</li>
+    <li>Bye Bye Baby (Taylor’s Version) (From The Vault)</li>
+    </ul>
+  </div>
+</div>
