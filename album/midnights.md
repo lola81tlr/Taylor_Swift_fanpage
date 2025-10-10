@@ -1,8 +1,8 @@
 ---
 title: "Midnights"
 layout: default
-album_colour: "#B6C0D1"
-album_font: "'Inter', sans-serif"
+album_colour: "#0F172A"
+album_font: "DM Sans"
 font_link: "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap"
 cover_image: "/assets/images/midnights.jpg"
 ---
