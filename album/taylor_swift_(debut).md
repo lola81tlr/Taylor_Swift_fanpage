@@ -21,7 +21,7 @@ Produced with the help of Nathan Chapman, *Taylor Swift* set the tone for a care
 
 ---
 
-## ☆ Deluxe Edition Tracklist
+## Deluxe Edition Tracklist
 
 ☆ Tim McGraw  
 ☆ Picture to Burn  
