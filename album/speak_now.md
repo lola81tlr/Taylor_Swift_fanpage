@@ -115,12 +115,12 @@ The re-recording not only celebrates Taylor’s artistic evolution but also her 
       <li>Long Live (Taylor’s Version)</li>
       <li>Ours (Taylor’s Version)</li>
       <li>Superman (Taylor’s Version)</li>
-      <li>Electric Touch (From the Vault) [feat. Fall Out Boy]</li>
-      <li>When Emma Falls in Love (From the Vault)</li>
-      <li>I Can See You (From the Vault)</li>
-      <li>Castles Crumbling (From the Vault) [feat. Hayley Williams]</li>
-      <li>Foolish One (From the Vault)</li>
-      <li>Timeless (From the Vault)</li>
+      <li>Electric Touch (Taylor’s Version) (From the Vault) [feat. Fall Out Boy]</li>
+    <li>When Emma Falls in Love (Taylor’s Version) (From the Vault)</li>
+    <li>I Can See You (Taylor’s Version) (From the Vault)</li>
+    <li>Castles Crumbling (Taylor’s Version) (From the Vault) [feat. Hayley Williams]</li>
+    <li>Foolish One (Taylor’s Version) (From the Vault)</li>
+    <li>Timeless (Taylor’s Version) (From the Vault)</li>
     </ul>
   </div>
 </div>
