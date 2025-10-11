@@ -18,15 +18,15 @@ Working again with Jack Antonoff and Aaron Dessner, Swift crafts a sonic world t
 
 ## Tracklists  
 
-<div class="tracklists-grid">
+<div class="tracklists">
 
 <div class="album-section">
   <div class="album-header">
-[!The Tortured Poets Department](assets/images/the_tortured_poets_department.jpg)
+    <img src="assets/images/the_tortured_poets_department.jpg" alt="The Tortured Poets Department cover" class="mini-cover">
     <h3><em>The Tortured Poets Department (2024)</em></h3>
-  </div>
+</div>
 
-  <ul style="font-family: 'Merriweather', serif; color: #6B0F1A;">
+  <ul style="font-family: 'Merriweather', serif; color: #7E6D67;">
     <li>☆ Fortnight (feat. Post Malone)</li>
     <li>☆ The Tortured Poets Department</li>
     <li>☆ My Boy Only Breaks His Favourite Toys</li>
@@ -48,11 +48,11 @@ Working again with Jack Antonoff and Aaron Dessner, Swift crafts a sonic world t
 
 <div class="album-section">
   <div class="album-header">
-[!The Tortured Poets Department : The Anthology](assets/images/the_tortured_poets_department_the_anthology.jpg)
+    <img src="assets/images/the_tortured_poets_department_the_anthology.jpg" alt="The Tortured Poets Department: The Anthology cover" class="mini-cover">
     <h3><em>The Tortured Poets Department: The Anthology (2024)</em></h3>
   </div>
-
-  <ul style="font-family: 'Merriweather', serif; color: #6B0F1A;">
+  
+  <ul style="font-family: 'Merriweather', serif; color: #7E6D67;">
     <li>☆ The Black Dog</li>
     <li>☆ imgonnagetyouback</li>
     <li>☆ The Albatross</li>
