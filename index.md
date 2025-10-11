@@ -25,18 +25,18 @@ Each era represents both a sonic and emotional evolution — Taylor Swift contin
 
 ## 🌿 Explore the Eras
 
-![*Taylor Swift* (Debut album)](/assets/images/taylor_swift_debut_cover.jpg)
-![*Fearless*](/assets/images/fearless.jpg)
-![*Speak Now*](/assets/images/speak_now.jpg)
-![*Red*](/assets/images/red.jpg)
-![*1989*](/assets/images/1989.jpg)
-![*reputation*](/assets/images/reputation.jpg)
-![*Lover*](/assets/images/lover.jpg)
-![*folklore*](/assets/images/folklore.jpg)
-![*evermore*](/assets/images/evermore.jpg)
-![*Midnights*](/assets/images/midnights.jpg)
-![*The Tortured Poets Department*](/assets/images/the_tortured_poets_department.jpg)
-![*The Life of A Showgirl*](/assets/images/the_life_of_a_showgirl.jpg)
+[![*Taylor Swift* (Debut album)](/assets/images/taylor_swift_debut_cover.jpg)](/album/taylor_swift_(debut).md)
+[![*Fearless*](/assets/images/fearless.jpg)](/album/fearless.md)
+[![*Speak Now*](/assets/images/speak_now.jpg)](/album/speak_now.md)
+[![*Red*](/assets/images/red.jpg)](/album/red.md)
+[![*1989*](/assets/images/1989.jpg)](/album/1989.md)
+[![*reputation*](/assets/images/reputation_cover.jpg)](/album/reputation.md)
+[![*Lover*](/assets/images/lover.jpg)](/album/lover.md)
+[![*folklore*](/assets/images/folklore.jpg)](/album/folklore.md)
+[![*evermore*](/assets/images/evermore.jpg)](/album/evermore.md)
+[![*Midnights*](/assets/images/midnights.jpg)](/album/midnights.md)
+[![*The Tortured Poets Department*](/assets/images/the_tortured_poets_department.jpg)](/album/the_tortured_department.md)
+[![*The Life of A Showgirl*](/assets/images/the_life_of_a_showgirl.jpg)](/album/the_life_of_a_showgirl.md)
 
 ---
 
