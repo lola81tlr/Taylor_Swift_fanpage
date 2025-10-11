@@ -1,4 +1,3 @@
-
 ---
 title: "evermore"
 layout: default
@@ -6,8 +5,7 @@ album_colour: "#BFAF9F"
 album_font: "'Cardo', serif"
 font_link: "https://fonts.googleapis.com/css2?family=Cardo:wght@400;700&display=swap"
 cover_image: "/assets/images/evermore.jpg"
---- 
-
+---
 <style>
 /* Remove default list bullets */
 ul {
@@ -24,6 +22,7 @@ ul li {
   padding-left: 1em;
 }
 </style>
+
 
 ![evermore album cover](/assets/images/evermore.jpg)
 
