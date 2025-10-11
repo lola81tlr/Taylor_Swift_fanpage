@@ -7,7 +7,7 @@ font_link: "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&disp
 cover_image: "/assets/images/midnights.jpg"
 ---
 
-![Midnights album cover]({{ page.cover_image }}){: .cover }
+![Midnights album cover](/assets/images/midnights)
 
 ## Midnights — 2022
 
