@@ -7,14 +7,12 @@ font_link: "https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&di
 cover_image: "/assets/images/lover.jpg"
 ---
 <style>
-/* Remove default list bullets */
 ul {
   list-style-type: none;
   padding-left: 0;
   margin-left: 0;
 }
 
-/* Tidy up line spacing and alignment */
 ul li {
   margin: 4px 0;
   font-size: 1.1em;
@@ -24,7 +22,7 @@ ul li {
 </style>
 
 
-![Lover album cover](/assets/images/lover.jpg)
+![Lover album cover](../assets/images/lover.jpg)
 
 ## Lover — 2019
 
