@@ -7,7 +7,7 @@ font_link: "https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&di
 cover_image: "/assets/images/lover.jpg"
 ---
 
-![Lover album cover]({{ page.cover_image }}){: .cover }
+![Lover album cover](/assets/images/lover.jpg)
 
 ## Lover — 2019
 
