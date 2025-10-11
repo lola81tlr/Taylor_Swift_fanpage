@@ -7,7 +7,7 @@ font_link: "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400
 cover_image: "/assets/images/folklore.jpg"
 ---
 
-![folklore album cover]({{ page.cover_image }}){: .cover }
+![folklore album cover](/assets/images/folklore.jpg)
 
 ## folklore — 2020
 
