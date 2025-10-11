@@ -38,18 +38,18 @@ Produced with the help of Nathan Chapman, *Taylor Swift* set the tone for a care
 ## Tracklist  
 
 <ul>
-<li>Tim McGraw</li>
-<li>Picture To Burn</li>
-<li>Teardrops on My Guitar</li>
-<li>A Place in This World</li>
-<li>Cold as You</li>
-<li>The Outside</li>
-<li>Tied Together with a Smile</li>
-<li>Stay Beautiful</li>
-<li>Sould've Said No</li>
-<li>Mary's Song (Oh My My My)</li>
-<li>Our Song</li>
-<li>I'm Only Me When I'm With You</li>
-<li>Invisible</li>
-<li>A Perfectly Good Heart</li>
+<li>☆ Tim McGraw</li>
+<li>☆ Picture To Burn</li>
+<li>☆ Teardrops on My Guitar</li>
+<li>☆ A Place in This World</li>
+<li>☆ Cold as You</li>
+<li>☆ The Outside</li>
+<li>☆ Tied Together with a Smile</li>
+<li>☆ Stay Beautiful</li>
+<li>☆ Sould've Said No</li>
+<li>☆ Mary's Song (Oh My My My)</li>
+<li>☆ Our Song</li>
+<li>☆ I'm Only Me When I'm With You</li>
+<li>☆ Invisible</li>
+<li>☆ A Perfectly Good Heart</li>
 <ul>
