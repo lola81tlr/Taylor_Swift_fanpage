@@ -7,10 +7,9 @@ font_link: "https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=
 cover_image: "/assets/images/the_life_of_a_showgirl.jpg"
 ---
 
-![The Life of a Showgirl cover]({{ page.cover_image }}){: .cover }
+![The Life of a Showgirl cover](/assets/images/the_life_of_a_showgirl.jpg)
 
 <style>
-/* --- GLOBAL PAGE STYLE FOR "THE LIFE OF A SHOWGIRL" --- */
 
 body {
   background-color: #1C1A17;
@@ -21,8 +20,6 @@ body {
   margin: 0;
   padding: 2rem;
 }
-
-/* --- HEADER STYLING --- */
 
 h1, h2, h3 {
   color: #CBA135;
@@ -38,8 +35,6 @@ h2 {
   margin-bottom: 1.5rem;
 }
 
-/* --- COVER IMAGE --- */
-
 .cover {
   display: block;
   max-width: 350px;
@@ -54,8 +49,6 @@ h2 {
   transform: scale(1.03);
   box-shadow: 0 0 35px rgba(203, 161, 53, 0.4);
 }
-
-/* --- TRACKLIST --- */
 
 .tracklists {
   display: flex;
@@ -86,15 +79,11 @@ h2 {
   color: #E6D29F;
 }
 
-/* --- DIVIDER --- */
-
 hr {
   border: none;
   border-top: 1px solid rgba(203, 161, 53, 0.3);
   margin: 2rem 0;
 }
-
-/* --- LINK HOVER GLOW --- */
 
 a {
   color: #CBA135;
@@ -107,8 +96,6 @@ a:hover {
   text-shadow: 0 0 10px rgba(203, 161, 53, 0.5);
 }
 
-/* --- QUOTES / EMPHASIS --- */
-
 em {
   color: #E6D29F;
 }
@@ -116,8 +103,6 @@ em {
 strong {
   color: #F2E6BF;
 }
-
-/* --- PAGE FOOTER (OPTIONAL) --- */
 
 footer {
   margin-top: 3rem;
@@ -154,5 +139,3 @@ Visually and sonically, *The Life of a Showgirl* continues Taylor’s fascinatio
 ☆ The Life of a Showgirl
 
 ---
-
-**Concepts / Production:** Written and produced by Taylor Swift, with cinematic arrangements and theatrical storytelling inspired by classic Hollywood and cabaret traditions.
