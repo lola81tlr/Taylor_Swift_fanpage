@@ -8,7 +8,6 @@ fearless_cover: "/assets/images/fearless.jpg"
 fearless_tv_cover: "/assets/images/fearless_tv.jpg"
 ---
 
-<div style="display: flex; justify-content: centre; gap: 20px; flex-wrap: wrap; align-items: centre;">
 ![Fearless](assets/images/fearless.jpg)
 ![Fearless TV album cover](assets/images/fearless_tv.jpg)
 </div>
@@ -38,7 +37,7 @@ Swiftâ€™s approach to the re-recording was one of respect for her younger self â
   <div class="tracklist">
     <div class="album-header">
    <img src="../assets/images/fearless.jpg" alt="Fearless album cover" class="mini-cover">
-    <h3><em>Fearless (2008)</em>em></h3>
+    <h3><em>Fearless (2008)</em></h3>
  </div>
     <ul>
       <li>Fearless</li>
