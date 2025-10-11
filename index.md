@@ -3,8 +3,12 @@
 
 ![Taylor Swift portrait](/assets/images/taylor_swift.jpg) 
 
+---
+
 ## Early Life
 Taylor Alison Swift was born on 13 December 1989 in Reading, Pennsylvania. She grew up on a Christmas tree farm, where she developed a deep love for storytelling and music. By the age of eleven, she was performing locally and writing her own songs. After convincing her parents to move to Nashville, Tennessee, she began pursuing her dream of becoming a country artist — a dream that would soon blossom into one of the most successful music careers of all time.
+
+---
 
 ## Musical Career
 Taylor Swift’s artistry is defined by transformation. Her self-titled debut introduced her as a young country songwriter; *Fearless* made her a household name; *Speak Now* confirmed her as one of the best lyricists of her generation. *Red* blended country with pop and emotional complexity, while *1989* completed her metamorphosis into a global pop icon. With *Reputation*, she reclaimed her narrative through darker, bolder sounds, before softening into *Lover* — a pastel celebration of love and growth.  
