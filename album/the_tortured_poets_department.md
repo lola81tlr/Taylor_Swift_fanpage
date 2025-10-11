@@ -6,6 +6,8 @@ album_font: "'Merriweather', serif"
 font_link: "https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap"
 ---
 
+![The Tortured Poets Department album cover](../assets/images/the_tortured_poets_department.jpg)
+
 ## The Tortured Poets Department — 2024
 
 *The Tortured Poets Department* is a bold and introspective chapter in Taylor Swift’s discography — a double album steeped in literary allusions, irony, and emotional confession. Released in 2024, it captures the turmoil and catharsis of heartbreak, creative struggle, and reinvention. The record reads like a collection of poetic fragments — each song offering an intimate look into grief, desire, and the act of self-examination through art.
