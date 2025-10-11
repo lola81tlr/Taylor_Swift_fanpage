@@ -1,7 +1,7 @@
 ---
 title: "The Tortured Poets Department"
 layout: default
-album_colour: "#6B0F1A"
+album_colour: "#7E6D67"
 album_font: "'Merriweather', serif"
 font_link: "https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap"
 ---
@@ -22,7 +22,7 @@ Working again with Jack Antonoff and Aaron Dessner, Swift crafts a sonic world t
 
 <div class="album-section">
   <div class="album-header">
-    <img src="(/assets/images/the_tortured_poets_department)" alt="The Tortured Poets Department cover" class="mini-cover">
+[!The Tortured Poets Department](assets/images/the_tortured_poets_department.jpg)
     <h3><em>The Tortured Poets Department (2024)</em></h3>
   </div>
 
@@ -48,7 +48,7 @@ Working again with Jack Antonoff and Aaron Dessner, Swift crafts a sonic world t
 
 <div class="album-section">
   <div class="album-header">
-    <img src="(/assets/images/the_tortured_poets_department_the_anthology.jpg)" alt="The Tortured Poets Department: The Anthology cover" class="mini-cover">
+[!The Tortured Poets Department : The Anthology](assets/images/the_tortured_poets_department_the_anthology.jpg)
     <h3><em>The Tortured Poets Department: The Anthology (2024)</em></h3>
   </div>
 
