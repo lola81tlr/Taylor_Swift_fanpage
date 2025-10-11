@@ -6,14 +6,12 @@ album_font: "'Cardo', serif"
 font_link: "https://fonts.googleapis.com/css2?family=Cardo:wght@400;700&display=swap"
 ---
 <style>
-/* Remove default list bullets */
 ul {
   list-style-type: none;
   padding-left: 0;
   margin-left: 0;
 }
 
-/* Tidy up line spacing and alignment */
 ul li {
   margin: 4px 0;
   font-size: 1.1em;
