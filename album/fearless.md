@@ -8,9 +8,8 @@ fearless_cover: "/assets/images/fearless.jpg"
 fearless_tv_cover: "/assets/images/fearless_tv.jpg"
 ---
 
-![Fearless](assets/images/fearless.jpg)
-![Fearless TV album cover](assets/images/fearless_tv.jpg)
-</div>
+![Fearless](../assets/images/fearless.jpg)
+![Fearless TV album cover](../assets/images/fearless_tv.jpg)
 
 ## Fearless â€” 2008
 
@@ -53,7 +52,7 @@ Swiftâ€™s approach to the re-recording was one of respect for her younger self â
       <li>Forever & Always</li>
       <li>The Best Day</li>
       <li>Change</li>
-      <li>Bonus: Jump Then Fall</li>
+      <li>Jump Then Fall</li>
       <li>Untouchable</li>
       <li>Come In With the Rain</li>
       <li>Superstar</li>
@@ -97,11 +96,6 @@ Swiftâ€™s approach to the re-recording was one of respect for her younger self â
 </div>
 
 
-
-
-
-
-
 <style>
   .tracklist-container {
     display: flex;
@@ -111,6 +105,15 @@ Swiftâ€™s approach to the re-recording was one of respect for her younger self â
     margin-top: 2rem;
   }
   
+.tracklist {
+  flex: 1;
+  min-width: 300px;
+  background-color: #b69568;
+  padding: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+}
+
  .album-header {
   display: flex;
   align-items: center;
