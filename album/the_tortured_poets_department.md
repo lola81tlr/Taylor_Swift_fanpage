@@ -116,3 +116,36 @@ Where *The Tortured Poets Department* is sharp and self-aware, *The Anthology* f
 Together, they complete Swift’s most literary and self-referential work to date.
 
 ---
+
+<style>
+.album-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+}
+.mini-cover {
+  width: 120px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.25);
+}
+.album-section {
+  background-color: #b4a584;
+  padding: 1rem;
+  border-radius: 12px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+}
+.tracklists-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+}
+@media (min-width: 900px) {
+  .tracklists-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+  .mini-cover {
+    width: 120px;
+  }
+}
+</style>
