@@ -9,8 +9,8 @@ fearless_tv_cover: "/assets/images/fearless_tv.jpg"
 ---
 
 <div style="display: flex; justify-content: centre; gap: 20px; flex-wrap: wrap; align-items: centre;">
-  <img src="{{ page.fearless_cover }}" alt="Fearless album cover" style="width: 300px; border-radius: 12px;">
-  <img src="{{ page.fearless_tv_cover }}" alt="Fearless (Taylor’s Version) album cover" style="width: 300px; border-radius: 12px;">
+![Fearless album cover](../assets/images/fearless.jpg)
+![Fearless TV album cover](../assets/images/fearless_tv.jpg)
 </div>
 
 ## Fearless — 2008
@@ -31,41 +31,15 @@ Swift’s approach to the re-recording was one of respect for her younger self �
 
 ---
 
-<style>
-  .tracklist-container {
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    gap: 40px;
-    margin-top: 30px;
-  }
-  .tracklist {
-    flex: 1;
-    min-width: 250px;
-    background-colour: #fff8e1;
-    padding: 20px;
-    border-radius: 12px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
-  }
-  .tracklist h3 {
-    text-align: centre;
-    colour: #E6C06A;
-    margin-bottom: 10px;
-  }
-  .tracklist ul {
-    list-style: none;
-    padding-left: 0;
-    line-height: 1.7;
-  }
-  .tracklist li::before {
-    content: "☆ ";
-    colour: #E6C06A;
-  }
-</style>
+## Tracklists
 
 <div class="tracklist-container">
+  
   <div class="tracklist">
-    <h3>Fearless (2008)</h3>
+    <div class="album-header">
+   <img src="../assets/images/fearless.jpg" alt="Fearless album cover" class="mini-cover">
+    <h3><em>Fearless (2008)</em>em></h3>
+ </div>
     <ul>
       <li>Fearless</li>
       <li>Fifteen</li>
@@ -89,7 +63,10 @@ Swift’s approach to the re-recording was one of respect for her younger self �
   </div>
 
   <div class="tracklist">
-    <h3>Fearless (Taylor’s Version) — 2021</h3>
+  <div class="album-header">
+  <img src="../assets/images/fearless_tv.jpg" alt="Fearless (Taylor's Version)" class="mini-cover">
+    <h3><em>Fearless (Taylor’s Version) (2021)</em></h3>
+  </div>
     <ul>
       <li>Fearless (Taylor’s Version)</li>
       <li>Fifteen (Taylor’s Version)</li>
@@ -119,3 +96,50 @@ Swift’s approach to the re-recording was one of respect for her younger self �
     </ul>
   </div>
 </div>
+
+
+
+
+
+
+
+<style>
+  .tracklist-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 2rem;
+    margin-top: 2rem;
+  }
+  
+ .album-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.mini-cover {
+  width: 120px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.25);
+}
+
+.tracklist h3 {
+  margin: 0;
+  color: #000;
+  text-align: left;
+}
+
+.tracklist ul {
+  list-style: none;
+  padding-left: 0;
+  line-height: 1.7;
+  color: #000;
+}
+
+  .tracklist li::before {
+    content: "☆ ";
+    colour: #b69568;
+  }
+</style>
