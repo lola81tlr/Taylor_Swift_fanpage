@@ -6,8 +6,24 @@ album_font: "DM Sans"
 font_link: "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap"
 cover_image: "/assets/images/midnights.jpg"
 ---
+<style>
+/* Remove default list bullets */
+ul {
+  list-style-type: none;
+  padding-left: 0;
+  margin-left: 0;
+}
 
-![Midnights album cover](/assets/images/midnights)
+/* Tidy up line spacing and alignment */
+ul li {
+  margin: 4px 0;
+  font-size: 1.1em;
+  text-indent: -1em;
+  padding-left: 1em;
+}
+</style>
+
+![Midnights album cover](../assets/images/midnights)
 
 ## Midnights — 2022
 
