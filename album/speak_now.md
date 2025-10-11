@@ -39,42 +39,14 @@ The re-recording not only celebrates Taylor’s artistic evolution but also her 
 
 ---
 
-<style>
-  .tracklist-container {
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    gap: 40px;
-    margin-top: 30px;
-  }
-  .tracklist {
-    flex: 1;
-    min-width: 260px;
-    background-color: #f6f0fb;
-    padding: 20px;
-    border-radius: 12px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
-  }
-  .tracklist h3 {
-    text-align: centre;
-    colour: #7D3C98;
-    margin-bottom: 10px;
-  }
-  .tracklist ul {
-    list-style: none;
-    padding-left: 0;
-    line-height: 1.7;
-  }
-  .tracklist li::before {
-    content: "☆ ";
-    colour: #7D3C98;
-    font-weight: bold;
-  }
-</style>
+## Tracklists
 
 <div class="tracklist-container">
+  
   <div class="tracklist">
-    <h3>Speak Now (2010)</h3>
+    <div class="album-header">
+   <img src="../assets/images/speak_now.jpg" alt="Speak Now album cover" class="mini-cover">
+    <h3><em>Speak Now (2010)</em></h3>
     <ul>
       <li>Mine</li>
       <li>Sparks Fly</li>
@@ -97,7 +69,9 @@ The re-recording not only celebrates Taylor’s artistic evolution but also her 
   </div>
 
   <div class="tracklist">
-    <h3>Speak Now (Taylor’s Version) — 2023</h3>
+      <div class="album-header">
+   <img src="../assets/images/speak_now_tv.jpg" alt="Speak Now TV album cover" class="mini-cover">
+    <h3><em>Speak Now (Taylor's Version) (2023)</em></h3>
     <ul>
       <li>Mine (Taylor’s Version)</li>
       <li>Sparks Fly (Taylor’s Version)</li>
@@ -124,3 +98,37 @@ The re-recording not only celebrates Taylor’s artistic evolution but also her 
     </ul>
   </div>
 </div>
+
+
+<style>
+  .tracklist-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 40px;
+    margin-top: 30px;
+  }
+  .tracklist {
+    flex: 1;
+    min-width: 260px;
+    background-color: #923c81;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  .tracklist h3 {
+    text-align: centre;
+    colour: #e2b7ce;
+    margin-bottom: 10px;
+  }
+  .tracklist ul {
+    list-style: none;
+    padding-left: 0;
+    line-height: 1.7;
+  }
+  .tracklist li::before {
+    content: "☆ ";
+    colour: #e2b7ce;
+    font-weight: bold;
+  }
+</style>
