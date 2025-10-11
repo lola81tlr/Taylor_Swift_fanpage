@@ -85,12 +85,12 @@ Swift’s approach to the re-recording was one of respect for her younger self �
       <li>Superstar (Taylor’s Version)</li>
       <li>The Other Side of the Door (Taylor’s Version)</li>
       <li>Today Was a Fairytale (Taylor’s Version)</li>
-    <li>You All Over Me (Taylor’s Version) (From The Vault) [feat. Maren Morris]</li>
-    <li>Mr. Perfectly Fine (Taylor’s Version) (From The Vault)</li>
-    <li>We Were Happy (Taylor’s Version) (From The Vault)</li>
-    <li>That’s When (Taylor’s Version) (From The Vault) [feat. Keith Urban]</li>
-    <li>Don’t You (Taylor’s Version) (From The Vault)</li>
-    <li>Bye Bye Baby (Taylor’s Version) (From The Vault)</li>
+      <li>You All Over Me (Taylor’s Version) (From The Vault) [feat. Maren Morris]</li>
+      <li>Mr. Perfectly Fine (Taylor’s Version) (From The Vault)</li>
+      <li>We Were Happy (Taylor’s Version) (From The Vault)</li>
+      <li>That’s When (Taylor’s Version) (From The Vault) [feat. Keith Urban]</li>
+      <li>Don’t You (Taylor’s Version) (From The Vault)</li>
+      <li>Bye Bye Baby (Taylor’s Version) (From The Vault)</li>
     </ul>
   </div>
 </div>
