@@ -7,23 +7,36 @@ font_link: "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&disp
 cover_image: "/assets/images/midnights.jpg"
 ---
 <style>
-/* Remove default list bullets */
 ul {
   list-style-type: none;
   padding-left: 0;
   margin-left: 0;
 }
 
-/* Tidy up line spacing and alignment */
 ul li {
   margin: 4px 0;
   font-size: 1.1em;
   text-indent: -1em;
   padding-left: 1em;
 }
+<style>
+body {
+  color: #FFFFF0;
+}
+h1, h2, h3, h4, h5, h6, p, li, em, strong {
+  color: #FFFFF0 !important;
+}
+a {
+  color: #FFFFF0;
+  text-decoration: underline;
+  transition: color 0.3s ease;
+}
+a:hover {
+  color: #F0E68C;
+}
 </style>
 
-![Midnights album cover](../assets/images/midnights)
+![Midnights album cover](../assets/images/midnights.jpg)
 
 ## Midnights — 2022
 
@@ -53,18 +66,11 @@ From the glittering melancholy of *Anti-Hero* to the sultry introspection of *Mi
 <li>☆ Karma</li>
 <li>☆ Sweet Nothing</li>
 <li>☆ Mastermind</li>
-</ul>
-
----
-
-## *Midnights (3am Edition)* Bonus Tracks  
-
-<ul>
-<li>☆ The Great War</li>
-<li>☆ Bigger Than The Whole Sky</li>
-<li>☆ Paris</li>
-<li>☆ High Infidelity</li>
-<li>☆ Glitch</li>
-<li>☆ Would’ve, Could’ve, Should’ve</li>
-<li>☆ Dear Reader</li>
+<li>☆ The Great War (bonus track)</li>
+<li>☆ Bigger Than The Whole Sky (bonus track)</li>
+<li>☆ Paris (bonus track)</li>
+<li>☆ High Infidelity (bonus track)</li>
+<li>☆ Glitch (bonus track)</li>
+<li>☆ Would’ve, Could’ve, Should’ve (bonus track)</li>
+<li>☆ Dear Reader (bonus track)</li>
 </ul>
