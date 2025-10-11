@@ -8,7 +8,7 @@ speak_now_cover: "/assets/images/speak_now.jpg"
 speak_now_tv_cover: "/assets/images/speak_now_tv.jpg"
 ---
 
-![Speak Now](../assets/images/speak_now.jpg)
+  <img src="assets/images/speak_now.jpg" alt="Speak Now" width="225" height="225">
 ![Speak Now TV album cover](../assets/images/speak_now_tv.jpg)
 
 ---
