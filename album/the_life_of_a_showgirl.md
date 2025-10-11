@@ -6,8 +6,24 @@ album_font: "'Cinzel', 'Playfair Display', serif"
 font_link: "https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=Playfair+Display:wght@400;700&display=swap"
 cover_image: "/assets/images/the_life_of_a_showgirl.jpg"
 ---
+<style>
+/* Remove default list bullets */
+ul {
+  list-style-type: none;
+  padding-left: 0;
+  margin-left: 0;
+}
 
-![The Life of a Showgirl cover](/assets/images/the_life_of_a_showgirl.jpg)
+/* Tidy up line spacing and alignment */
+ul li {
+  margin: 4px 0;
+  font-size: 1.1em;
+  text-indent: -1em;
+  padding-left: 1em;
+}
+</style>
+
+![The Life of a Showgirl cover](../assets/images/the_life_of_a_showgirl.jpg)
 
 <style>
 
