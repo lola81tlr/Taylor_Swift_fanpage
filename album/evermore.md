@@ -23,7 +23,7 @@ ul li {
 </style>
 
 
-![evermore album cover](/assets/images/evermore.jpg)
+![evermore album cover](../assets/images/evermore.jpg)
 
 ## evermore — 2020
 
