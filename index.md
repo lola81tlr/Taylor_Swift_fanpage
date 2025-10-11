@@ -27,62 +27,62 @@ Each era represents both a sonic and emotional evolution — Taylor Swift contin
 
 <div class="album-grid">
 
-<a href="/album/taylor_swift_(debut).html">
+<a href="/album/taylor_swift_(debut).md">
 <img src="/assets/images/taylor_swift_debut_cover.jpg" alt="Taylor Swift debut" width="150"/>
 **Taylor Swift**
 </a>
 
-<a href="/album/fearless.html">
+<a href="/album/fearless.md">
 <img src="/assets/images/fearless_tv.jpg" alt="Fearless (Taylor's Version)" width="150"/>
 **Fearless**
 </a>
 
-<a href="/album/speak_now.html">
+<a href="/album/speak_now.md">
 <img src="/assets/images/speak_now_tv.jpg" alt="Speak Now (Taylor's Version)" width="150"/>
 **Speak Now**
 </a>
 
-<a href="/album/red.html">
+<a href="/album/red.md">
 <img src="/assets/images/red_tv.jpg" alt="Red (Taylor's Version)" width="150"/>
 **Red**
 </a>
 
-<a href="/album/1989.html">
+<a href="/album/1989.md">
 <img src="/assets/images/1989_tv.jpg" alt="1989 (Taylor's Version)" width="150"/>
 **1989**
 </a>
 
-<a href="/album/reputation.html">
+<a href="/album/reputation.md">
 <img src="/assets/images/reputation_cover.jpg" alt="Reputation" width="150"/>
 **Reputation**
 </a>
 
-<a href="/album/lover.html">
+<a href="/album/lover.md">
 <img src="/assets/images/lover.jpg" alt="Lover" width="150"/>
 **Lover**
 </a>
 
-<a href="/album/folklore.html">
+<a href="/album/folklore.md">
 <img src="/assets/images/folklore.jpg" alt="Folklore" width="150"/>
 **Folklore**
 </a>
 
-<a href="/album/evermore.html">
+<a href="/album/evermore.md">
 <img src="/assets/images/evermore.jpg" alt="Evermore" width="150"/>
 **Evermore**
 </a>
 
-<a href="/album/midnights.html">
+<a href="/album/midnights.md">
 <img src="/assets/images/midnights.jpg" alt="Midnights" width="150"/>
 **Midnights**
 </a>
 
-<a href="/album/the_tortured_poets_department.html">
+<a href="/album/the_tortured_poets_department.md">
 <img src="/assets/images/the_tortured_poets_department.jpg" alt="The Tortured Poets Department" width="150"/>
 **The Tortured Poets Department**
 </a>
 
-<a href="/album/the_life_of_a_showgirl.html">
+<a href="/album/the_life_of_a_showgirl.md">
 <img src="/assets/images/the_life_of_a_showgirl.jpg" alt="The Life of a Showgirl" width="150"/>
 **The Life of a Showgirl**
 </a>
