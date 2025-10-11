@@ -1,47 +1,81 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>{{ page.title | default: site.title }}</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
 
+  <!-- Google Font (Georgia is system, but you can include others if needed) -->
   {% if page.font_link %}
-  <link href="{{ page.font_link }}" rel="stylesheet">
+    <link href="{{ page.font_link }}" rel="stylesheet">
   {% endif %}
 
+  <!-- CSS -->
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
   <style>
-    :root{
-      --accent: {{ page.album_color | default: '#b34f9a' }};
-      --album-font: {{ page.album_font | default: "'Inter', sans-serif" }};
+    body {
+      font-family: {{ page.album_font | default: site.font_family | default: "'Georgia', serif" }};
+      background-color: {{ page.album_colour | default: site.background_color | default: "#D9BB9B" }};
+      color: #222;
+      margin: 0;
+      padding: 2rem;
+      line-height: 1.6;
     }
-    body { font-family: var(--album-font); }
-    .accent { color: var(--accent); }
-    .accent-bg { background-color: var(--accent); }
+
+    h1, h2, h3 {
+      text-align: center;
+    }
+
+    .cover {
+      display: block;
+      margin: 2rem auto;
+      max-width: 400px;
+      border-radius: 10px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    }
+
+    .album-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 20px;
+      text-align: center;
+      margin-top: 2rem;
+    }
+
+    .album-grid a {
+      text-decoration: none;
+      color: inherit;
+      transition: transform 0.3s ease, color 0.3s ease;
+    }
+
+    .album-grid a:hover {
+      transform: scale(1.05);
+      color: #000;
+    }
+
+    .album-grid img {
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    }
+
+    footer {
+      text-align: center;
+      font-size: 0.9rem;
+      margin-top: 3rem;
+      color: rgba(0,0,0,0.6);
+    }
   </style>
 </head>
-<body>
-  <header class="site-header">
-    <div class="container">
-      <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
-      <nav class="main-nav">
-        <a href="{{ '/' | relative_url }}">Home</a>
-        {% for p in site.pages %}
-          {% if p.path contains 'albums/' %}
-            <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
-          {% endif %}
-        {% endfor %}
-      </nav>
-    </div>
-  </header>
 
-  <main class="container">
+<body>
+  <main class="content">
     {{ content }}
   </main>
 
-  <footer class="site-footer container">
-    <p>Built with ❤️ — your fan site</p>
+  <footer>
+    <p>© {{ site.time | date: '%Y' }} — Taylor Swift Fan Project (for educational purposes only)</p>
   </footer>
 </body>
 </html>
