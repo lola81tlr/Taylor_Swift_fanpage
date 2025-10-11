@@ -21,7 +21,7 @@ ul li {
 </style>
 
 
-![Taylor Swift debut album cover](../assets/images/taylor_swift_debut_cover) 
+![Taylor Swift debut album cover](../assets/images/taylor_swift_debut_cover.jpg) 
 
 ## Taylor Swift (Debut) — 2006
 
