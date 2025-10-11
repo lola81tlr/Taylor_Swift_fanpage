@@ -1,6 +1,6 @@
 title: "Taylor Swift — Her Complete Eras"
 description: "A fan-made website celebrating Taylor Swift’s music, eras, and artistry."
-baseurl: "" 
+baseurl: "/Taylor_Swift_fanpage" 
 url: "https://lola81tlr.github.io/Taylor_Swift_fanpage/" 
 
 theme: minima 
