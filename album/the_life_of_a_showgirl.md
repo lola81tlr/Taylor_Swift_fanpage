@@ -7,10 +7,14 @@ font_link: "https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=
 cover_image: "/assets/images/the_life_of_a_showgirl.jpg"
 ---
 
-<!-- Force normal text casing for everything -->
+<!-- Only headings are uppercase -->
 <style>
-body, h1, h2, h3, h4, h5, h6, p, li, a, strong, em {
+body, p, li, a, strong, em {
   text-transform: none !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-transform: uppercase !important;
 }
 </style>
 
