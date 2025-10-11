@@ -8,7 +8,7 @@ speak_now_cover: "/assets/images/speak_now.jpg"
 speak_now_tv_cover: "/assets/images/speak_now_tv.jpg"
 ---
 
-  <img src="assets/images/speak_now.jpg" alt="Speak Now" width="225" height="225">
+<img src="assets/images/speak_now.jpg" width="225" height="225">
 ![Speak Now TV album cover](../assets/images/speak_now_tv.jpg)
 
 ---
@@ -41,6 +41,7 @@ The re-recording not only celebrates Taylor’s artistic evolution but also her 
     <div class="album-header">
    <img src="../assets/images/speak_now.jpg" alt="Speak Now album cover" class="mini-cover">
     <h3><em>Speak Now (2010)</em></h3>
+    </div>
     <ul>
       <li>Mine</li>
       <li>Sparks Fly</li>
@@ -66,6 +67,7 @@ The re-recording not only celebrates Taylor’s artistic evolution but also her 
       <div class="album-header">
    <img src="../assets/images/speak_now_tv.jpg" alt="Speak Now TV album cover" class="mini-cover">
     <h3><em>Speak Now (Taylor's Version) (2023)</em></h3>
+      </div>
     <ul>
       <li>Mine (Taylor’s Version)</li>
       <li>Sparks Fly (Taylor’s Version)</li>
