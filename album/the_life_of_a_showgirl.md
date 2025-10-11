@@ -6,6 +6,14 @@ album_font: "'Cinzel', 'Playfair Display', serif"
 font_link: "https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=Playfair+Display:wght@400;700&display=swap"
 cover_image: "/assets/images/the_life_of_a_showgirl.jpg"
 ---
+
+<!-- Force normal text casing for everything -->
+<style>
+body, h1, h2, h3, h4, h5, h6, p, li, a, strong, em {
+  text-transform: none !important;
+}
+</style>
+
 <style>
 ul {
   list-style-type: none;
@@ -24,10 +32,6 @@ ul li {
 ![The Life of a Showgirl cover](../assets/images/the_life_of_a_showgirl.jpg)
 
 <style>
-h1, h2, h3, h4, h5, h6 {
-  text-transform: none !important;
-}
-
 body {
   background-color: #1C1A17;
   color: #CBA135;
@@ -142,7 +146,7 @@ Visually and sonically, *The Life of a Showgirl* continues Taylor’s fascinatio
 ## Tracklist  
 
 <ul>
-<li>☆  The Fate of Ophelia</li>
+<li>☆ The Fate of Ophelia</li>
 <li>☆ Elizabeth Taylor</li>
 <li>☆ Opalite</li>
 <li>☆ Father Figure</li>
@@ -154,5 +158,4 @@ Visually and sonically, *The Life of a Showgirl* continues Taylor’s fascinatio
 <li>☆ CANCELLED!</li>
 <li>☆ Honey</li>
 <li>☆ The Life of a Showgirl</li>
-<ul>
-
+</ul>
