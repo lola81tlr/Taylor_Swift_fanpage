@@ -22,7 +22,7 @@ Working again with Jack Antonoff and Aaron Dessner, Swift crafts a sonic world t
 
 <div class="album-section">
   <div class="album-header">
-    <img src="assets/images/the_tortured_poets_department.jpg" alt="The Tortured Poets Department cover" class="mini-cover">
+    <img src="../assets/images/the_tortured_poets_department.jpg" alt="The Tortured Poets Department cover" class="mini-cover">
     <h3><em>The Tortured Poets Department (2024)</em></h3>
 </div>
 
@@ -48,7 +48,7 @@ Working again with Jack Antonoff and Aaron Dessner, Swift crafts a sonic world t
 
 <div class="album-section">
   <div class="album-header">
-    <img src="assets/images/the_tortured_poets_department_the_anthology.jpg" alt="The Tortured Poets Department: The Anthology cover" class="mini-cover">
+    <img src="../assets/images/the_tortured_poets_department_the_anthology.jpg" alt="The Tortured Poets Department: The Anthology cover" class="mini-cover">
     <h3><em>The Tortured Poets Department: The Anthology (2024)</em></h3>
   </div>
   
@@ -97,7 +97,7 @@ Together, they complete Swift’s most literary and self-referential work to dat
   box-shadow: 0 2px 6px rgba(0,0,0,0.25);
 }
 .album-section {
-  background-color: #e0d5c2;
+  background-color: #b4a584;
   padding: 1rem;
   border-radius: 12px;
   box-shadow: 0 2px 10px rgba(0,0,0,0.08);
