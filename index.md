@@ -25,9 +25,9 @@ Each era represents both a sonic and emotional evolution — Taylor Swift contin
 
 [![Taylor Swift (Debut album)](assets/images/taylor_swift_debut_cover.jpg)](album/taylor_swift_(debut))
 [![Fearless](assets/images/fearless.jpg)](album/fearless)
-<a href="album/speak_now">
+<a href="/album/speak_now/">
   <img 
-    src="assets/images/speak_now.jpg" 
+    src="/assets/images/speak_now.jpg" 
     alt="Speak Now" 
     width="225" 
     height="225" 
