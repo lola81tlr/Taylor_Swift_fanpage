@@ -25,15 +25,7 @@ Each era represents both a sonic and emotional evolution — Taylor Swift contin
 
 [![Taylor Swift (Debut album)](assets/images/taylor_swift_debut_cover.jpg)](album/taylor_swift_(debut))
 [![Fearless](assets/images/fearless.jpg)](album/fearless)
-<a href="/album/speak_now/">
-  <img 
-    src="/assets/images/speak_now.jpg" 
-    alt="Speak Now" 
-    width="225" 
-    height="225" 
-    style="border-radius: 12px; box-shadow: 0 2px 6px rgba(0,0,0,0.25);"
-  >
-</a>
+![<img src="assets/images/speak_now.jpg" alt="Speak Now Cover" width="225" height="225">](album/speak-now)
 [![Red](assets/images/red.jpg)](album/red)
 [![1989](assets/images/1989.jpg)](album/1989)
 [![reputation](assets/images/reputation_cover.jpg)](album/reputation)
