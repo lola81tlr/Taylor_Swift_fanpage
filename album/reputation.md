@@ -7,7 +7,7 @@ font_link: "https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;700&dis
 cover_image: "/assets/images/reputation_cover.jpg"
 ---
 
-![reputation album cover]({{ page.cover_image }}){: .cover }
+![reputation album cover](/assets/images/reputation_cover.jpg)
 
 ## reputation — 2017
 
