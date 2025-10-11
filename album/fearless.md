@@ -9,8 +9,8 @@ fearless_tv_cover: "/assets/images/fearless_tv.jpg"
 ---
 
 <div style="display: flex; justify-content: centre; gap: 20px; flex-wrap: wrap; align-items: centre;">
-![Fearless album cover](../assets/images/fearless.jpg)
-![Fearless TV album cover](../assets/images/fearless_tv.jpg)
+![Fearless album cover](assets/images/fearless.jpg)
+![Fearless TV album cover](assets/images/fearless_tv.jpg)
 </div>
 
 ## Fearless — 2008
