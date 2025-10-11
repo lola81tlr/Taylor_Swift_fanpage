@@ -97,7 +97,7 @@ Together, they complete Swift’s most literary and self-referential work to dat
   box-shadow: 0 2px 6px rgba(0,0,0,0.25);
 }
 .album-section {
-  background-color: #fdfaf9;
+  background-color: #e0d5c2;
   padding: 1rem;
   border-radius: 12px;
   box-shadow: 0 2px 10px rgba(0,0,0,0.08);
