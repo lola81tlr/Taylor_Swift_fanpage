@@ -1,6 +1,21 @@
-title: "Taylor Swift — Fan Site"
-description: "A fan site built with Markdown & GitHub Pages"
-baseurl: ""    # leave empty for user site
-url: "https://lola81tlr.github.io"  
-markdown: kramdown
+title: "Taylor Swift — Her Complete Eras"
+description: "A fan-made website celebrating Taylor Swift’s music, eras, and artistry."
+baseurl: "" 
+url: "https://lola81tlr.github.io/Taylor_Swift_fanpage/" 
 
+theme: minima 
+
+markdown: kramdown
+highlighter: rouge
+
+defaults:
+  -
+    scope:
+      path: "index.md" 
+    values:
+      layout: "default"
+      font_family: "'Georgia', serif"
+      background_color: "#D9BB9B"
+
+sass:
+  style: compressed
