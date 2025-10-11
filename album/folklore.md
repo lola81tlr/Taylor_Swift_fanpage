@@ -7,14 +7,12 @@ font_link: "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400
 cover_image: "/assets/images/folklore.jpg"
 ---
 <style>
-/* Remove default list bullets */
 ul {
   list-style-type: none;
   padding-left: 0;
   margin-left: 0;
 }
 
-/* Tidy up line spacing and alignment */
 ul li {
   margin: 4px 0;
   font-size: 1.1em;
@@ -23,7 +21,7 @@ ul li {
 }
 </style>
 
-![folklore album cover](/assets/images/folklore.jpg)
+![folklore album cover](../assets/images/folklore.jpg)
 
 ## folklore — 2020
 
