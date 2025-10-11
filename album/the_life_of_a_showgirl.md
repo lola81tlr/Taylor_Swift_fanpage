@@ -7,14 +7,12 @@ font_link: "https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=
 cover_image: "/assets/images/the_life_of_a_showgirl.jpg"
 ---
 <style>
-/* Remove default list bullets */
 ul {
   list-style-type: none;
   padding-left: 0;
   margin-left: 0;
 }
 
-/* Tidy up line spacing and alignment */
 ul li {
   margin: 4px 0;
   font-size: 1.1em;
@@ -26,7 +24,10 @@ ul li {
 ![The Life of a Showgirl cover](../assets/images/the_life_of_a_showgirl.jpg)
 
 <style>
-  
+h1, h2, h3, h4, h5, h6 {
+  text-transform: none !important;
+}
+
 body {
   background-color: #1C1A17;
   color: #CBA135;
