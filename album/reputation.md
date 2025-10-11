@@ -6,8 +6,24 @@ album_font: "'Oswald', sans-serif"
 font_link: "https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;700&display=swap"
 cover_image: "/assets/images/reputation_cover.jpg"
 ---
+<style>
+/* Remove default list bullets */
+ul {
+  list-style-type: none;
+  padding-left: 0;
+  margin-left: 0;
+}
 
-![reputation album cover](/assets/images/reputation_cover.jpg)
+/* Tidy up line spacing and alignment */
+ul li {
+  margin: 4px 0;
+  font-size: 1.1em;
+  text-indent: -1em;
+  padding-left: 1em;
+}
+</style>
+
+![reputation album cover](../assets/images/reputation_cover.jpg)
 
 ## reputation — 2017
 
