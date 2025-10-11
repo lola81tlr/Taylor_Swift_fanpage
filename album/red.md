@@ -53,7 +53,7 @@ In 2021, Taylor released *Red (Taylor’s Version)* as part of her project to re
  <img src="../assets/images/red_tv.jpg" alt="Red (Taylor's Version)" class="mini-cover">
   <h3><em>Red (Taylor’s Version) (2021)</em></h3>
  </div>
- <ul>
+  <ul>
    <li>State of Grace (Taylor’s Version)</li>
    <li>Red (Taylor’s Version)</li>
    <li>Treacherous (Taylor’s Version)</li>
