@@ -1,19 +1,17 @@
 ---
 title: "Taylor Swift (Debut)"
 layout: default
-album_colour: "#F7C6D3"
+album_colour: "#BDCFB7"
 album_font: "'Merriweather', serif"
 font_link: "https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap"
 ---
 <style>
-/* Remove default list bullets */
 ul {
   list-style-type: none;
   padding-left: 0;
   margin-left: 0;
 }
 
-/* Tidy up line spacing and alignment */
 ul li {
   margin: 4px 0;
   font-size: 1.1em;
@@ -21,6 +19,7 @@ ul li {
   padding-left: 1em;
 }
 </style>
+
 
 ![Taylor Swift debut album cover](../assets/images/taylor_swift_debut_cover) 
 
@@ -36,12 +35,7 @@ Produced with the help of Nathan Chapman, *Taylor Swift* set the tone for a care
 
 ---
 
-## Tracklists  
-
-<div class="tracklists">
-
-<div>
-<h3><em>1989 (2014)</em></h3>
+## Tracklist  
 
 <ul>
 <li>Tim McGraw</li>
@@ -58,4 +52,4 @@ Produced with the help of Nathan Chapman, *Taylor Swift* set the tone for a care
 <li>I'm Only Me When I'm With You</li>
 <li>Invisible</li>
 <li>A Perfectly Good Heart</li>
-</ul>
+<ul>
