@@ -6,6 +6,22 @@ album_font: "'Cormorant Garamond', serif"
 font_link: "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600&display=swap"
 cover_image: "/assets/images/folklore.jpg"
 ---
+<style>
+/* Remove default list bullets */
+ul {
+  list-style-type: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+/* Tidy up line spacing and alignment */
+ul li {
+  margin: 4px 0;
+  font-size: 1.1em;
+  text-indent: -1em;
+  padding-left: 1em;
+}
+</style>
 
 ![folklore album cover](/assets/images/folklore.jpg)
 
