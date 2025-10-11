@@ -7,7 +7,7 @@ font_link: "https://fonts.googleapis.com/css2?family=Cardo:wght@400;700&display=
 cover_image: "/assets/images/evermore.jpg"
 ---
 
-![evermore album cover]({{ page.cover_image }}){: .cover }
+![evermore album cover](/assets/images/evermore.jpg)
 
 ## evermore — 2020
 
