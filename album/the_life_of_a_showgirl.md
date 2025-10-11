@@ -26,7 +26,7 @@ ul li {
 ![The Life of a Showgirl cover](../assets/images/the_life_of_a_showgirl.jpg)
 
 <style>
-
+  
 body {
   background-color: #1C1A17;
   color: #CBA135;
@@ -39,7 +39,6 @@ body {
 
 h1, h2, h3 {
   color: #CBA135;
-  text-transform: uppercase;
   font-weight: 600;
   letter-spacing: 1.5px;
 }
@@ -141,17 +140,18 @@ Visually and sonically, *The Life of a Showgirl* continues Taylor’s fascinatio
 
 ## Tracklist  
 
-☆  The Fate of Ophelia
-☆ Elizabeth Taylor
-☆ Opalite
-☆ Father Figure
-☆ Eldest Daughter
-☆ Ruin The Friendship
-☆ Actually Romantic
-☆ Wi$h Li$t
-☆ Wood
-☆ CANCELLED!
-☆ Honey
-☆ The Life of a Showgirl
+<ul>
+<li>☆  The Fate of Ophelia</li>
+<li>☆ Elizabeth Taylor</li>
+<li>☆ Opalite</li>
+<li>☆ Father Figure</li>
+<li>☆ Eldest Daughter</li>
+<li>☆ Ruin The Friendship</li>
+<li>☆ Actually Romantic</li>
+<li>☆ Wi$h Li$t</li>
+<li>☆ Wood</li>
+<li>☆ CANCELLED!</li>
+<li>☆ Honey</li>
+<li>☆ The Life of a Showgirl</li>
+<ul>
 
----
