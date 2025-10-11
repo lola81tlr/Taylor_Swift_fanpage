@@ -32,7 +32,7 @@ Each era represents both a sonic and emotional evolution — Taylor Swift contin
 [![folklore](assets/images/folklore.jpg)](album/folklore)
 [![evermore](assets/images/evermore.jpg)](album/evermore)
 [![Midnights](assets/images/midnights.jpg)](album/midnights)
-[![The Tortured Poets Department](assets/images/the_tortured_poets_department.jpg)](album/the_tortured_department)
+[![The Tortured Poets Department](assets/images/the_tortured_poets_department.jpg)](album/the_tortured_poets_department)
 [![The Life of A Showgirl](assets/images/the_life_of_a_showgirl.jpg)](album/the_life_of_a_showgirl)
 
 ---
