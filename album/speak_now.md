@@ -8,18 +8,12 @@ speak_now_cover: "/assets/images/speak_now.jpg"
 speak_now_tv_cover: "/assets/images/speak_now_tv.jpg"
 ---
 
-<div style="text-align: centre;">
-  <a href="#speak-now-2010">
-    <img src="{{ page.speak_now_cover }}" alt="Speak Now album cover" style="width: 280px; border-radius: 12px; margin: 10px;">
-  </a>
-  <a href="#speak-now-tv-2023">
-    <img src="{{ page.speak_now_tv_cover }}" alt="Speak Now (Taylor’s Version) album cover" style="width: 280px; border-radius: 12px; margin: 10px;">
-  </a>
-</div>
+![Speak Now](../assets/images/speak_now.jpg)
+![Speak Now TV album cover](../assets/images/speak_now_tv.jpg)
 
 ---
 
-## <a id="speak-now-2010"></a>Speak Now — 2010
+## Speak Now — 2010
 
 Released in 2010, *Speak Now* stands as Taylor Swift’s boldest creative leap — an album written entirely by Swift herself at just twenty years old. It’s a record fuelled by emotion, introspection, and theatrical flair, capturing the transition from adolescence to adulthood with striking honesty and grace.  
 
@@ -29,7 +23,7 @@ Critically acclaimed and adored by fans, *Speak Now* showcased Taylor’s maturi
 
 ---
 
-## <a id="speak-now-tv-2023"></a>Speak Now (Taylor’s Version) — 2023
+## Speak Now (Taylor’s Version) — 2023
 
 In July 2023, Taylor Swift reintroduced her third studio album as *Speak Now (Taylor’s Version)*, revisiting the project that defined her storytelling prowess. This re-recording reimagines the original with warmer production and matured vocals, allowing Swift to reclaim ownership of one of her most personal records.  
 
