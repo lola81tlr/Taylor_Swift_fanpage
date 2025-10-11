@@ -1,62 +1,12 @@
----
+--- 
 layout: default
 title: Red & Red (Taylor's Version)
+album_colour: "#9c1b15"
+album_font: "'Roboto Slab', serif"
 ---
 
-<style>
-  body {
-    font-family: 'Roboto Slab', serif;
-    background-color: #fff;
-    color: #C41E3A;
-    margin: 2em;
-  }
-  h1, h2 {
-    text-align: center;
-  }
-  .album-container {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 2em;
-  }
-  .album {
-    text-align: center;
-    max-width: 400px;
-  }
-  .tracklists {
-    display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
-    margin-top: 2em;
-  }
-  ul {
-    list-style: none;
-    padding-left: 0;
-  }
-  li::before {
-    content: "☆ ";
-  }
-  img {
-    width: 100%;
-    border-radius: 15px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
-  }
-</style>
-
-# **Red & Red (Taylor's Version)**  
-
-<div class="album-container">
-  <div class="album">
-    <img src="assets/images/red.jpg" alt="Red album cover">
-    <h2>Red (2012)</h2>
-  </div>
-  <div class="album">
-    <img src="assets/images/red_tv.jpg" alt="Red (Taylor's Version) album cover">
-    <h2>Red (Taylor's Version) (2021)</h2>
-  </div>
-</div>
-
----
+![Red](../assets/images/red.jpg)
+![Red TV album cover](../assets/images/red_tv.jpg)
 
 ## About *Red* and *Red (Taylor’s Version)*  
 
@@ -68,11 +18,11 @@ In 2021, Taylor released *Red (Taylor’s Version)* as part of her project to re
 
 ## Tracklists  
 
-<div class="tracklists">
-
-<div>
-<h3><em>Red (2012)</em></h3>
-
+<div class="tracklists-container">
+ <div class="album-header">
+      <img src="../assets/images/red.jpg" alt="Red album cover" class="mini-cover">
+  <h3><em>Red (2012)</em></h3>
+ </div>
 <ul>
 <li>State of Grace</li>
 <li>Red</li>
@@ -96,9 +46,11 @@ In 2021, Taylor released *Red (Taylor’s Version)* as part of her project to re
 </ul>
 </div>
 
-<div>
-<h3><em>Red (Taylor’s Version) (2021)</em></h3>
-
+ <div class="tracklist">
+  <div class="album-header">
+  <img src="../assets/images/red_tv.jpg" alt="Red (Taylor's Version)" class="mini-cover">
+    <h3><em>Red (Taylor’s Version) (2021)</em></h3>
+  </div>
 <ul>
 <li>State of Grace (Taylor’s Version)</li>
 <li>Red (Taylor’s Version)</li>
@@ -132,11 +84,55 @@ In 2021, Taylor released *Red (Taylor’s Version)* as part of her project to re
 <li>All Too Well (10 Minute Version) (Taylor’s Version) (From the Vault)</li>
 </ul>
 </div>
-
 </div>
 
----
 
-<div style="text-align: center; margin-top: 2em;">
-  <a href="../index.md" style="color: #C41E3A; text-decoration: none; font-weight: bold;">← Back to Albums</a>
-</div>
+<style>
+  .tracklist-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 2rem;
+    margin-top: 2rem;
+  }
+  
+.tracklist {
+  flex: 1;
+  min-width: 300px;
+  background-color: #b3947e;
+  padding: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+}
+
+ .album-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.mini-cover {
+  width: 120px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.25);
+}
+
+.tracklist h3 {
+  margin: 0;
+  color: #80431b;
+  text-align: left;
+}
+
+.tracklist ul {
+  list-style: none;
+  padding-left: 0;
+  line-height: 1.7;
+  color: #000;
+}
+
+  .tracklist li::before {
+    content: "☆ ";
+    colour: #80431b;
+  }
+</style>
