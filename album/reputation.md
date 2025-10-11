@@ -7,14 +7,12 @@ font_link: "https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;700&dis
 cover_image: "/assets/images/reputation_cover.jpg"
 ---
 <style>
-/* Remove default list bullets */
 ul {
   list-style-type: none;
   padding-left: 0;
   margin-left: 0;
 }
 
-/* Tidy up line spacing and alignment */
 ul li {
   margin: 4px 0;
   font-size: 1.1em;
