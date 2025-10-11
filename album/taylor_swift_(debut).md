@@ -5,8 +5,24 @@ album_colour: "#F7C6D3"
 album_font: "'Merriweather', serif"
 font_link: "https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap"
 ---
+<style>
+/* Remove default list bullets */
+ul {
+  list-style-type: none;
+  padding-left: 0;
+  margin-left: 0;
+}
 
-![Taylor Swift debut album cover](/assets/images/taylor_swift_debut_cover) 
+/* Tidy up line spacing and alignment */
+ul li {
+  margin: 4px 0;
+  font-size: 1.1em;
+  text-indent: -1em;
+  padding-left: 1em;
+}
+</style>
+
+![Taylor Swift debut album cover](../assets/images/taylor_swift_debut_cover) 
 
 ## Taylor Swift (Debut) — 2006
 
