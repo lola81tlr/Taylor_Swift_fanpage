@@ -1,14 +1,6 @@
----
-title: "Taylor Swift — About"
-layout: default
-album_color: "#5DBB63"
-album_font: "'Inter', sans-serif"
-font_link: "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&display=swap"
----
-
 # Taylor Swift
 
-![Taylor Swift portrait](assets/images/taylor_swift.jpg) 
+![Taylor Swift portrait](/assets/images/taylor_swift.jpg) 
 
 ## Early Life
 Taylor Alison Swift was born on 13 December 1989 in Reading, Pennsylvania. She grew up on a Christmas tree farm, where she developed a deep love for storytelling and music. By the age of eleven, she was performing locally and writing her own songs. After convincing her parents to move to Nashville, Tennessee, she began pursuing her dream of becoming a country artist — a dream that would soon blossom into one of the most successful music careers of all time.
@@ -19,24 +11,24 @@ Her surprise releases, *Folklore* and *Evermore*, marked a return to storytellin
 
 Each era represents both a sonic and emotional evolution — Taylor Swift continues to reinvent herself while remaining unapologetically authentic.
 
-![Taylor Swift 2021](assets/images/taylor_swift_2021.jpg) 
+![Taylor Swift 2021](/assets/images/taylor_swift_2021.jpg) 
 
 ---
 
 ## 🌿 Explore the Eras
 
-[![*Taylor Swift* (Debut album)](assets/images/taylor_swift_debut_cover.jpg)](album/taylor_swift_(debut).md)
-[![*Fearless*](assets/images/fearless.jpg)](album/fearless.md)
-[![*Speak Now*](assets/images/speak_now.jpg)](album/speak_now.md)
-[![*Red*](assets/images/red.jpg)](album/red.md)
-[![*1989*](assets/images/1989.jpg)](album/1989.md)
-[![*reputation*](assets/images/reputation_cover.jpg)](album/reputation.md)
-[![*Lover*](assets/images/lover.jpg)](album/lover.md)
-[![*folklore*](assets/images/folklore.jpg)](album/folklore.md)
-[![*evermore*](assets/images/evermore.jpg)](album/evermore.md)
-[![*Midnights*](assets/images/midnights.jpg)](album/midnights.md)
-[![*The Tortured Poets Department*](assets/images/the_tortured_poets_department.jpg)](album/the_tortured_department.md)
-[![*The Life of A Showgirl*](assets/images/the_life_of_a_showgirl.jpg)](album/the_life_of_a_showgirl.md)
+[![Taylor Swift (Debut album)](/assets/images/taylor_swift_debut_cover.jpg)](/album/taylor_swift_(debut).md)
+[![Fearless](/assets/images/fearless.jpg)](/album/fearless.md)
+[![Speak Now](/assets/images/speak_now.jpg)](/album/speak_now.md)
+[![Red](/assets/images/red.jpg)](/album/red.md)
+[![1989](/assets/images/1989.jpg)](/album/1989.md)
+[![reputation](/assets/images/reputation_cover.jpg)](/album/reputation.md)
+[![Lover](/assets/images/lover.jpg)](/album/lover.md)
+[![folklore](/assets/images/folklore.jpg)](/album/folklore.md)
+[![evermore](/assets/images/evermore.jpg)](/album/evermore.md)
+[![Midnights](/assets/images/midnights.jpg)](/album/midnights.md)
+[![The Tortured Poets Department](/assets/images/the_tortured_poets_department.jpg)](/album/the_tortured_department.md)
+[![The Life of A Showgirl](/assets/images/the_life_of_a_showgirl.jpg)](/album/the_life_of_a_showgirl.md)
 
 ---
 
@@ -53,7 +45,7 @@ Beyond her artistry, Swift has become a champion for artists’ rights, equality
 
 ## 🐱 Taylor’s Beloved Cats
 
-![Taylor and her cats](assets/images/taylor_and_cats.jpg) 
+![Taylor and her cats](/assets/images/taylor_and_cats.jpg) 
 
 Taylor’s cats — Meredith Grey, Olivia Benson, and Benjamin Button — are beloved companions and symbols of her softer, homely side. Named after iconic characters from *Grey’s Anatomy*, *Law & Order: SVU*, and *The Curious Case of Benjamin Button*, they often appear in her social media posts and even her music videos. They represent comfort, independence, and the quiet joy that grounds her extraordinary life.
 
