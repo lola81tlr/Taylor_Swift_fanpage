@@ -21,7 +21,7 @@ In 2021, Taylor released *Red (Taylor’s Version)* as part of her project to re
 <div class="tracklists-container">
  
  <div class="tracklist">
-  <div class="album-header">
+   <div class="album-header">
  <img src="../assets/images/red.jpg" alt="Red album cover" class="mini-cover">
   <h3><em>Red (2012)</em></h3>
 </div>
@@ -51,7 +51,7 @@ In 2021, Taylor released *Red (Taylor’s Version)* as part of her project to re
  <div class="tracklist">
  <div class="album-header">
  <img src="../assets/images/red_tv.jpg" alt="Red (Taylor's Version)" class="mini-cover">
-  <h3><em>Red (Taylor’s Version) (2021)</em></h3>
+   <h3><em>Red (Taylor’s Version) (2021)</em></h3>
  </div>
   <ul>
    <li>State of Grace (Taylor’s Version)</li>
