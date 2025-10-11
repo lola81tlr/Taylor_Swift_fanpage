@@ -18,91 +18,56 @@ Working again with Jack Antonoff and Aaron Dessner, Swift crafts a sonic world t
 
 ## Tracklists  
 
-<style>
-  .tracklist-container {
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    gap: 40px;
-    margin-top: 30px;
-  }
-  .tracklist {
-    flex: 1;
-    min-width: 250px;
-    background-colour: #b4a584;
-    padding: 20px;
-    border-radius: 12px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
-  }
-  .tracklist h3 {
-    text-align: centre;
-    colour: #000000;
-    margin-bottom: 10px;
-  }
-  .tracklist ul {
-    list-style: none;
-    padding-left: 0;
-    line-height: 1.7;
-  }
-  .tracklist li::before {
-    content: "☆ ";
-    colour: #b4a584;
-  }
-</style>
+<div class="tracklist-container">
 
-
-<div class="tracklists">
-
-<div class="album-section">
-  <div class="album-header">
-    <img src="../assets/images/the_tortured_poets_department.jpg" alt="The Tortured Poets Department cover" class="mini-cover">
-    <h3><em>The Tortured Poets Department (2024)</em></h3>
-</div>
-
-  <ul style="font-family: 'Merriweather', serif; color: #7E6D67;">
-    <li>☆ Fortnight (feat. Post Malone)</li>
-    <li>☆ The Tortured Poets Department</li>
-    <li>☆ My Boy Only Breaks His Favourite Toys</li>
-    <li>☆ Down Bad</li>
-    <li>☆ So Long, London</li>
-    <li>☆ But Daddy I Love Him</li>
-    <li>☆ Fresh Out the Slammer</li>
-    <li>☆ Florida!!! (feat. Florence + The Machine)</li>
-    <li>☆ Guilty as Sin?</li>
-    <li>☆ Who’s Afraid of Little Old Me?</li>
-    <li>☆ I Can Fix Him (No Really I Can)</li>
-    <li>☆ loml</li>
-    <li>☆ I Can Do It With a Broken Heart</li>
-    <li>☆ The Smallest Man Who Ever Lived</li>
-    <li>☆ The Alchemy</li>
-    <li>☆ Clara Bow</li>
-  </ul>
-</div>
-
-<div class="album-section">
-  <div class="album-header">
-    <img src="../assets/images/the_tortured_poets_department_the_anthology.jpg" alt="The Tortured Poets Department: The Anthology cover" class="mini-cover">
-    <h3><em>The Tortured Poets Department: The Anthology (2024)</em></h3>
+  <div class="tracklist">
+    <div class="album-header">
+      <img src="../assets/images/the_tortured_poets_department.jpg" alt="The Tortured Poets Department cover" class="mini-cover">
+      <h3><em>The Tortured Poets Department (2024)</em></h3>
+    </div>
+    <ul>
+      <li>Fortnight (feat. Post Malone)</li>
+      <li>The Tortured Poets Department</li>
+      <li>My Boy Only Breaks His Favourite Toys</li>
+      <li>Down Bad</li>
+      <li>So Long, London</li>
+      <li>But Daddy I Love Him</li>
+      <li>Fresh Out the Slammer</li>
+      <li>Florida!!! (feat. Florence + The Machine)</li>
+      <li>Guilty as Sin?</li>
+      <li>Who’s Afraid of Little Old Me?</li>
+      <li>I Can Fix Him (No Really I Can)</li>
+      <li>loml</li>
+      <li>I Can Do It With a Broken Heart</li>
+      <li>The Smallest Man Who Ever Lived</li>
+      <li>The Alchemy</li>
+      <li>Clara Bow</li>
+    </ul>
   </div>
-  
-  <ul style="font-family: 'Merriweather', serif; color: #7E6D67;">
-    <li>☆ The Black Dog</li>
-    <li>☆ imgonnagetyouback</li>
-    <li>☆ The Albatross</li>
-    <li>☆ Chloe or Sam or Sophia or Marcus</li>
-    <li>☆ How Did It End?</li>
-    <li>☆ So High School</li>
-    <li>☆ I Hate It Here</li>
-    <li>☆ thanK you aIMee</li>
-    <li>☆ I Look in People’s Windows</li>
-    <li>☆ The Prophecy</li>
-    <li>☆ Cassandra</li>
-    <li>☆ Peter</li>
-    <li>☆ The Bolter</li>
-    <li>☆ Robin</li>
-    <li>☆ The Manuscript</li>
-  </ul>
-</div>
+
+  <div class="tracklist">
+    <div class="album-header">
+      <img src="../assets/images/the_tortured_poets_department_the_anthology.jpg" alt="The Tortured Poets Department: The Anthology cover" class="mini-cover">
+      <h3><em>The Tortured Poets Department: The Anthology (2024)</em></h3>
+    </div>
+    <ul>
+      <li>The Black Dog</li>
+      <li>imgonnagetyouback</li>
+      <li>The Albatross</li>
+      <li>Chloe or Sam or Sophia or Marcus</li>
+      <li>How Did It End?</li>
+      <li>So High School</li>
+      <li>I Hate It Here</li>
+      <li>thanK you aIMee</li>
+      <li>I Look in People’s Windows</li>
+      <li>The Prophecy</li>
+      <li>Cassandra</li>
+      <li>Peter</li>
+      <li>The Bolter</li>
+      <li>Robin</li>
+      <li>The Manuscript</li>
+    </ul>
+  </div>
 
 </div>
 
@@ -118,34 +83,51 @@ Together, they complete Swift’s most literary and self-referential work to dat
 ---
 
 <style>
+.tracklist-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.tracklist {
+  flex: 1;
+  min-width: 300px;
+  background-color: #b4a584;
+  padding: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+}
+
 .album-header {
   display: flex;
   align-items: center;
   gap: 1rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: 1rem;
 }
+
 .mini-cover {
   width: 120px;
   border-radius: 8px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.25);
 }
-.album-section {
-  background-color: #b4a584;
-  padding: 1rem;
-  border-radius: 12px;
-  box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+
+.tracklist h3 {
+  margin: 0;
+  color: #000;
+  text-align: left;
 }
-.tracklists-grid {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 2rem;
+
+.tracklist ul {
+  list-style: none;
+  padding-left: 0;
+  line-height: 1.7;
+  color: #000;
 }
-@media (min-width: 900px) {
-  .tracklists-grid {
-    grid-template-columns: 1fr 1fr;
-  }
-  .mini-cover {
-    width: 120px;
-  }
+
+.tracklist li::before {
+  content: "☆ ";
+  color: #7E6D67;
 }
 </style>
