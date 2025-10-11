@@ -20,72 +20,72 @@ In 2021, Taylor released *Red (Taylor’s Version)* as part of her project to re
 
 <div class="tracklists-container">
  
- <div class="tracklist">
-   <div class="album-header">
- <img src="../assets/images/red.jpg" alt="Red album cover" class="mini-cover">
-  <h3><em>Red (2012)</em></h3>
-</div>
- <ul>
-   <li>State of Grace</li>
-   <li>Red</li>
-   <li>Treacherous</li>
-   <li>I Knew You Were Trouble</li>
-   <li>All Too Well</li>
-   <li>22</li>
-   <li>I Almost Do</li>
-   <li>We Are Never Ever Getting Back Together</li>
-   <li>Stay Stay Stay</li>
-   <li>The Last Time (feat. Gary Lightbody)</li>
-   <li>Holy Ground</li>
-   <li>Sad Beautiful Tragic</li>
-   <li>The Lucky One</li>
-   <li>Everything Has Changed (feat. Ed Sheeran)</li>
-   <li>Starlight</li>
-   <li>Begin Again</li>
-   <li>The Moment I Knew</li>
-   <li>Come Back... Be Here</li>
-   <li>Girl at Home</li>
-  </ul>
-</div>
+  <div class="tracklist">
+    <div class="album-header">
+   <img src="../assets/images/red.jpg" alt="Red album cover" class="mini-cover">
+    <h3><em>Red (2012)</em></h3>
+ </div>
+    <ul>
+       <li>State of Grace</li>
+       <li>Red</li>
+       <li>Treacherous</li>
+       <li>I Knew You Were Trouble</li>
+       <li>All Too Well</li>
+       <li>22</li>
+       <li>I Almost Do</li>
+       <li>We Are Never Ever Getting Back Together</li>
+       <li>Stay Stay Stay</li>
+       <li>The Last Time (feat. Gary Lightbody)</li>
+       <li>Holy Ground</li>
+       <li>Sad Beautiful Tragic</li>
+       <li>The Lucky One</li>
+       <li>Everything Has Changed (feat. Ed Sheeran)</li>
+       <li>Starlight</li>
+       <li>Begin Again</li>
+       <li>The Moment I Knew</li>
+       <li>Come Back... Be Here</li>
+       <li>Girl at Home</li>
+    </ul>
+  </div>
 
- <div class="tracklist">
- <div class="album-header">
- <img src="../assets/images/red_tv.jpg" alt="Red (Taylor's Version)" class="mini-cover">
-   <h3><em>Red (Taylor’s Version) (2021)</em></h3>
- </div>
-  <ul>
-   <li>State of Grace (Taylor’s Version)</li>
-   <li>Red (Taylor’s Version)</li>
-   <li>Treacherous (Taylor’s Version)</li>
-   <li>I Knew You Were Trouble (Taylor’s Version)</li>
-   <li>All Too Well (Taylor’s Version)</li>
-   <li>22 (Taylor’s Version)</li>
-   <li>I Almost Do (Taylor’s Version)</li>
-   <li>We Are Never Ever Getting Back Together (Taylor’s Version)</li>
-   <li>Stay Stay Stay (Taylor’s Version)</li>
-   <li>The Last Time (Taylor’s Version) (feat. Gary Lightbody)</li>
-   <li>Holy Ground (Taylor’s Version)</li>
-   <li>Sad Beautiful Tragic (Taylor’s Version)</li>
-   <li>The Lucky One (Taylor’s Version)</li>
-   <li>Everything Has Changed (Taylor’s Version) (feat. Ed Sheeran)</li>
-   <li>Starlight (Taylor’s Version)</li>
-   <li>Begin Again (Taylor’s Version)</li>
-   <li>The Moment I Knew (Taylor’s Version)</li>
-   <li>Come Back... Be Here (Taylor’s Version)</li>
-   <li>Girl at Home (Taylor’s Version)</li>
-   <li>State of Grace (Acoustic Version) (Taylor’s Version)</li>
-   <li>Ronan (Taylor’s Version)</li>
-   <li>Better Man (Taylor’s Version) (From the Vault)</li>
-   <li>Nothing New (Taylor’s Version) (From the Vault) (feat. Phoebe Bridgers)</li>
-   <li>Babe (Taylor’s Version) (From the Vault)</li>
-   <li>Message in a Bottle (Taylor’s Version) (From the Vault)</li>
-   <li>I Bet You Think About Me (Taylor’s Version) (From the Vault) (feat. Chris Stapleton)</li>
-   <li>Forever Winter (Taylor’s Version) (From the Vault)</li>
-   <li>Run (Taylor’s Version) (From the Vault) (feat. Ed Sheeran)</li>
-   <li>The Very First Night (Taylor’s Version) (From the Vault)</li>
-   <li>All Too Well (10 Minute Version) (Taylor’s Version) (From the Vault)</li>
-  </ul>
- </div>
+  <div class="tracklist">
+  <div class="album-header">
+  <img src="../assets/images/red_tv.jpg" alt="Red (Taylor's Version)" class="mini-cover">
+    <h3><em>Red (Taylor’s Version) (2021)</em></h3>
+  </div>
+    <ul>
+      <li>State of Grace (Taylor’s Version)</li>
+      <li>Red (Taylor’s Version)</li>
+      <li>Treacherous (Taylor’s Version)</li>
+      <li>I Knew You Were Trouble (Taylor’s Version)</li>
+      <li>All Too Well (Taylor’s Version)</li>
+      <li>22 (Taylor’s Version)</li>
+      <li>I Almost Do (Taylor’s Version)</li>
+      <li>We Are Never Ever Getting Back Together (Taylor’s Version)</li>
+      <li>Stay Stay Stay (Taylor’s Version)</li>
+      <li>The Last Time (Taylor’s Version) (feat. Gary Lightbody)</li>
+      <li>Holy Ground (Taylor’s Version)</li>
+      <li>Sad Beautiful Tragic (Taylor’s Version)</li>
+      <li>The Lucky One (Taylor’s Version)</li>
+      <li>Everything Has Changed (Taylor’s Version) (feat. Ed Sheeran)</li>
+      <li>Starlight (Taylor’s Version)</li>
+      <li>Begin Again (Taylor’s Version)</li>
+      <li>The Moment I Knew (Taylor’s Version)</li>
+      <li>Come Back... Be Here (Taylor’s Version)</li>
+      <li>Girl at Home (Taylor’s Version)</li>
+      <li>State of Grace (Acoustic Version) (Taylor’s Version)</li>
+      <li>Ronan (Taylor’s Version)</li>
+      <li>Better Man (Taylor’s Version) (From the Vault)</li>
+      <li>Nothing New (Taylor’s Version) (From the Vault) (feat. Phoebe Bridgers)</li>
+      <li>Babe (Taylor’s Version) (From the Vault)</li>
+      <li>Message in a Bottle (Taylor’s Version) (From the Vault)</li>
+      <li>I Bet You Think About Me (Taylor’s Version) (From the Vault) (feat. Chris Stapleton)</li>
+      <li>Forever Winter (Taylor’s Version) (From the Vault)</li>
+      <li>Run (Taylor’s Version) (From the Vault) (feat. Ed Sheeran)</li>
+      <li>The Very First Night (Taylor’s Version) (From the Vault)</li>
+      <li>All Too Well (10 Minute Version) (Taylor’s Version) (From the Vault)</li>
+    </ul>
+  </div>
 </div>
 
 
