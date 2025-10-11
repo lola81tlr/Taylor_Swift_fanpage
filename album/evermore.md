@@ -24,7 +24,7 @@ ul li {
 </style>
 
 
-![evermore album cover](/assets/images/evermore.jpg)
+![evermore album cover](assets/images/evermore.jpg)
 
 ## evermore — 2020
 
@@ -53,7 +53,7 @@ The record invites listeners into tales of heartbreak, hope, betrayal, and redem
 <li>☆ ivy</li>
 <li>☆ cowboy like me</li>
 <li>☆ marjorie</li>
-<li>☆ lo,g story short</li>
+<li>☆ long story short</li>
 <li>☆ closure</li>
 <li>☆ evermore (feat. Bon Iver)</li>
 <li>☆ right where you left me (bonus track)</li>
