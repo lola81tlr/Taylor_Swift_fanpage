@@ -7,7 +7,7 @@ font_link: "https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;7
 cover_image: "/assets/images/taylor_swift_debut_cover.jpg"
 ---
 
-![Taylor Swift debut album cover]({{ page.cover_image }}){: .cover }
+![Taylor Swift debut album cover](/assets/images/taylor_swift_debut_cover) 
 
 ## Taylor Swift (Debut) — 2006
 
