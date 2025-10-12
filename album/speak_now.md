@@ -8,8 +8,8 @@ speak_now_cover: "/assets/images/speak_now.jpg"
 speak_now_tv_cover: "/assets/images/speak_now_tv.jpg"
 ---
 
-<img src="assets/images/speak_now.jpg" width="225" height="225">
-<img src="assets/images/speak_now_jpg.jpg" width="225" height="225">
+<img src="assets/images/speak_now.jpg" width="225" height="225" alt="Speak Now cover">
+<img src="assets/images/speak_now_jpg.jpg" width="225" height="225" alt="Speak Now TV cover">
 
 ---
 
