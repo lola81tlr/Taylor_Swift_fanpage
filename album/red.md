@@ -18,7 +18,7 @@ In 2021, Taylor released *Red (Taylor’s Version)* as part of her project to re
 
 ## Tracklists  
 
-<div class="tracklists-container">
+<div class="tracklist-container">
  
   <div class="tracklist">
     <div class="album-header">
@@ -135,6 +135,6 @@ In 2021, Taylor released *Red (Taylor’s Version)* as part of her project to re
 
   .tracklist li::before {
     content: "☆ ";
-    colour: #80431b;
+    color: #80431b;
   }
 </style>
