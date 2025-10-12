@@ -122,7 +122,7 @@ In 2021, Taylor released *Red (Taylor’s Version)* as part of her project to re
 
 .tracklist h3 {
   margin: 0;
-  color: #80431b;
+  color: #000;
   text-align: left;
 }
 
