@@ -20,6 +20,8 @@ Looking back, what’s so inspiring about Taylor’s early life is how focused s
 
 ## Musical Career
 
+## [![Taylor Swift 2021](/assets/images/taylor_swift_2021.jpg)](https://www.taylorswift.com) 
+
 Taylor Swift’s musical career is one of the most inspiring journeys in modern music. After moving to Tennessee as a teenager, she started performing at small venues in and around Nashville, playing her own songs and catching people’s attention with her emotional lyrics and storytelling. In 2006, when she was just sixteen, she released her debut album, *Taylor Swift*. With songs like “Tim McGraw” and “Teardrops on My Guitar,” she quickly became known as a young country artist with a real gift for turning her feelings into music. The album’s success in the country scene marked the beginning of a career that would grow beyond anyone’s expectations.
 
 Her second album, *Fearless* (2008), turned her into an international star. With hits like “Love Story” and “You Belong with Me,” she connected with millions of fans through her honest and emotional writing. *Fearless* won four Grammy Awards, including Album of the Year, and made Taylor the youngest artist at the time to win that honour. What stood out most was how her songs could feel both deeply personal and completely universal at the same time.
@@ -35,8 +37,6 @@ In 2022, she released *Midnights*, an album full of dreamy pop melodies and late
 Looking back, what makes Taylor Swift’s career so unique is how she keeps evolving without losing herself. From a country girl singing about teenage heartbreak to a global icon writing about the complexities of fame and identity, she has always stayed authentic. She continues to reinvent her sound while staying emotionally honest, which is why fans all around the world connect so deeply with her music. Whether she’s performing on a giant stadium stage or releasing surprise albums that break streaming records overnight, Taylor Swift proves that true artistry comes from constant growth, courage, and storytelling straight from the heart.
 
 Each era represents both a sonic and emotional evolution — Taylor Swift continues to reinvent herself while remaining unapologetically authentic.
-
-## [![Taylor Swift 2021](/assets/images/taylor_swift_2021.jpg)](https://www.taylorswift.com) 
 
 ---
 
