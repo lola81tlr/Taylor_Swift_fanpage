@@ -1,7 +1,7 @@
 
 # Taylor Swift
 
-![Taylor Swift portrait](/assets/images/taylor_swift.jpg) 
+# ![Taylor Swift portrait](/assets/images/taylor_swift.jpg) 
 
 ---
 
