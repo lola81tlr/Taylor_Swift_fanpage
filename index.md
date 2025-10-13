@@ -97,7 +97,8 @@ What makes Taylor’s cultural impact so remarkable is how personal it feels. Sh
 
 ## 🐱 Taylor’s Beloved Cats
 
-[![Taylor and her cats](/assets/images/taylor_and_cats.jpg)](https://www.taylorswift.com) When it comes to Taylor Swift’s life, there’s one thing that’s as famous as her songwriting — her cats. Over the years, her three feline companions have become true icons in their own right, loved by fans almost as much as Taylor herself. Their names — Meredith Grey, Olivia Benson, and Benjamin Button — are instantly recognisable to Swifties around the world, and each of them has a personality (and a backstory) that perfectly fits their famous owner.
+# [![Taylor and her cats](/assets/images/taylor_and_cats.jpg)](https://www.taylorswift.com) 
+When it comes to Taylor Swift’s life, there’s one thing that’s as famous as her songwriting — her cats. Over the years, her three feline companions have become true icons in their own right, loved by fans almost as much as Taylor herself. Their names — Meredith Grey, Olivia Benson, and Benjamin Button — are instantly recognisable to Swifties around the world, and each of them has a personality (and a backstory) that perfectly fits their famous owner.
 
 Taylor adopted her first cat, Meredith Grey, in 2011, naming her after the main character from the TV series Grey’s Anatomy. Meredith is a beautiful Scottish Fold with big, round eyes and a slightly grumpy but adorable expression. She’s known for being independent and sometimes camera-shy, which fans find both relatable and funny. Taylor has often joked about how Meredith prefers quiet time and isn’t too interested in the spotlight, unlike her human mum.
 
