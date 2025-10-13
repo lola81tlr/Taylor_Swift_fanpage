@@ -7,6 +7,8 @@
 
 ## Early Life
 
+# ![Taylor Swift as a child](/assets/images/taylor_as_a_kid.jpg)
+
 Taylor Alison Swift was born on 13 December 1989 in Reading, Pennsylvania, and spent most of her childhood in a small, quiet town called Wyomissing. Believe it or not, she actually grew up on a Christmas tree farm! That detail feels like something straight out of a Taylor Swift song — cosy, a bit magical, and full of heart. Her parents, Andrea and Scott Swift, were always very supportive of her. Andrea had a marketing background, and Scott worked as a stockbroker, but they never tried to push her in a “traditional” direction. Instead, they noticed her passion for music early on and gave her the space to explore it. Taylor also has a younger brother, Austin, and they shared a close bond while growing up surrounded by nature and family warmth.
 
 From a young age, Taylor loved storytelling. She was that kid who always wrote poems, short stories, and little pieces of writing that later turned into songs. Her grandmother had been an opera singer, which definitely inspired her love for performing, even though Taylor’s style leaned more towards country and pop. During her school years at Wyomissing Area Junior/Senior High, she joined theatre shows and sang at local events. When she was just eleven, she sang the American national anthem at a basketball game — quite impressive for someone her age! Around the same time, a computer repairman who came to fix her parents’ computer showed her how to play a few chords on the guitar. That moment completely changed her life. She became obsessed with practising and soon started writing her own songs about her life and feelings.
@@ -74,6 +76,8 @@ Her songs aren’t just melodies — they’re emotional narratives that capture
 ---
 
 ## Philanthropy and Cultural Impact
+
+# ![Taylor Swift portrait](/assets/images/taylor_hospital.jpg)
 
 Taylor Swift isn’t only known for her record-breaking albums and unforgettable lyrics — she’s also admired for her kindness, generosity, and influence beyond the world of music. Throughout her career, she has used her platform not just to share her art, but also to make a real difference in people’s lives. Her philanthropy, activism, and cultural influence have made her one of the most powerful and respected figures in modern entertainment.
 
