@@ -42,8 +42,6 @@ Each era represents both a sonic and emotional evolution — Taylor Swift contin
 ## Explore the Eras
 ### 💚💛💜❤️🩵🖤🩷🩶🤎💙🤍❤️‍🔥
 
-### [💚](album/taylor_swift_(debut))[💛](album/fearless)[💜](album/speak_now)[❤️](album/red)[🩵](album/1989)[🖤](album/reputation)[🩷](album/lover)[🩶](album/lover)[🤎](album/evermore)[💙](album/midnights)[🤍](album/the_tortured_poets_department)[❤️‍🔥](album/the_life_of_a_showgirl)
-
 [![Taylor Swift (Debut album)](assets/images/taylor_swift_debut_cover.jpg)](album/taylor_swift_(debut))
 [![Fearless](assets/images/fearless.jpg)](album/fearless)
 [<img src="assets/images/speak_now.jpg" width="225" height="225">](album/speak_now)
@@ -75,7 +73,7 @@ Her songs aren’t just melodies — they’re emotional narratives that capture
 
 ---
 
-## 💫 Philanthropy and Cultural Impact
+## Philanthropy and Cultural Impact
 
 Taylor Swift isn’t only known for her record-breaking albums and unforgettable lyrics — she’s also admired for her kindness, generosity, and influence beyond the world of music. Throughout her career, she has used her platform not just to share her art, but also to make a real difference in people’s lives. Her philanthropy, activism, and cultural influence have made her one of the most powerful and respected figures in modern entertainment.
 
@@ -95,9 +93,7 @@ What makes Taylor’s cultural impact so remarkable is how personal it feels. Sh
 
 ## 🐱 Taylor’s Beloved Cats
 
-[![Taylor and her cats](/assets/images/taylor_and_cats.jpg)](https://www.taylorswift.com)
-
-When it comes to Taylor Swift’s life, there’s one thing that’s as famous as her songwriting — her cats. Over the years, her three feline companions have become true icons in their own right, loved by fans almost as much as Taylor herself. Their names — Meredith Grey, Olivia Benson, and Benjamin Button — are instantly recognisable to Swifties around the world, and each of them has a personality (and a backstory) that perfectly fits their famous owner.
+[![Taylor and her cats](/assets/images/taylor_and_cats.jpg)](https://www.taylorswift.com) When it comes to Taylor Swift’s life, there’s one thing that’s as famous as her songwriting — her cats. Over the years, her three feline companions have become true icons in their own right, loved by fans almost as much as Taylor herself. Their names — Meredith Grey, Olivia Benson, and Benjamin Button — are instantly recognisable to Swifties around the world, and each of them has a personality (and a backstory) that perfectly fits their famous owner.
 
 Taylor adopted her first cat, Meredith Grey, in 2011, naming her after the main character from the TV series Grey’s Anatomy. Meredith is a beautiful Scottish Fold with big, round eyes and a slightly grumpy but adorable expression. She’s known for being independent and sometimes camera-shy, which fans find both relatable and funny. Taylor has often joked about how Meredith prefers quiet time and isn’t too interested in the spotlight, unlike her human mum.
 
