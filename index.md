@@ -30,7 +30,7 @@ Each era represents both a sonic and emotional evolution — Taylor Swift contin
 ## Explore the Eras
 ### 💚💛💜❤️🩵🖤🩷🩶🤎💙🤍❤️‍🔥
 
-### 💚(album/taylor_swift_(debut))![💛](album/taylor_swift_fearless)![💜](album/taylor_swift_speak_now)![❤️](album/taylor_swift_red)![🩵](album/taylor_swift_1989)![🖤](album/taylor_swift_reputation)![🩷](album/taylor_swift_lover)![🩶](album/taylor_swift_lover)![🤎](album/taylor_swift_evermore)![💙](album/taylor_swift_midnights)![🤍](album/taylor_swift_the_tortured_poets_department)![❤️‍🔥](album/taylor_swift_the_life_of_a_showgirl)
+### [💚](album/taylor_swift_(debut))[💛](album/taylor_swift_fearless)[💜](album/taylor_swift_speak_now)[❤️](album/taylor_swift_red)[🩵](album/taylor_swift_1989)[🖤](album/taylor_swift_reputation)[🩷](album/taylor_swift_lover)[🩶](album/taylor_swift_lover)[🤎](album/taylor_swift_evermore)[💙](album/taylor_swift_midnights)[🤍](album/taylor_swift_the_tortured_poets_department)[❤️‍🔥](album/taylor_swift_the_life_of_a_showgirl)
 
 [![Taylor Swift (Debut album)](assets/images/taylor_swift_debut_cover.jpg)](album/taylor_swift_(debut))
 [![Fearless](assets/images/fearless.jpg)](album/fearless)
