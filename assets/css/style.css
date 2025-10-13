@@ -38,15 +38,4 @@
     border-radius: 12px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.2);
   }
-
-.album-links a {
-    text-decoration: none;
-    font-size: 1.5rem;
-    margin: 0 4px;
-    transition: transform 0.2s ease;
-  }
-
-  .album-links a:hover {
-    transform: scale(1.2);
-  }
 </style>
