@@ -41,7 +41,7 @@ Each era represents both a sonic and emotional evolution — Taylor Swift contin
 ---
 
 ## Explore the Eras
-### 💚💛💜❤️🩵🖤🩷🩶🤎💙🤍❤️‍🔥
+### [💚](album/taylor_swift_(debut))💛💜❤️🩵🖤🩷🩶🤎💙🤍❤️‍🔥
 
 [![Taylor Swift (Debut album)](assets/images/taylor_swift_debut_cover.jpg)](album/taylor_swift_(debut))
 [![Fearless](assets/images/fearless.jpg)](album/fearless)
