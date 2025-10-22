@@ -1,7 +1,7 @@
 ---
 title: "evermore"
 layout: default
-album_colour: "#BFAF9F"
+album_colour: "#bd834a"
 album_font: "'Cardo', serif"
 font_link: "https://fonts.googleapis.com/css2?family=Cardo:wght@400;700&display=swap"
 ---
