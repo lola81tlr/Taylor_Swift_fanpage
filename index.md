@@ -41,9 +41,10 @@ Each era represents both a sonic and emotional evolution — Taylor Swift contin
 ---
 
 ## Explore the Eras
-### [💚](album/taylor_swift_(debut))💛💜❤️🩵🖤🩷🩶🤎💙🤍❤️‍🔥
+### [💚](album/taylor_swift_debut)[💛](album/fearless)[💜](album/speak_now)[❤️)](album/red)[🩵](album/1989)[🖤](album/reputation)[🩷](album/lover)[🩶](album/folklore)[🤎](album/evermore)[💙](album/midnights)[🤍](album/the_tortured_poets_department)[❤️‍🔥](album/the_life_of_a_showgirl)
 
-[![Taylor Swift (Debut album)](assets/images/taylor_swift_debut_cover.jpg)](album/taylor_swift_(debut))
+
+[![Taylor Swift (Debut album)](assets/images/taylor_swift_debut_cover.jpg)](album/taylor_swift_debut)
 [![Fearless](assets/images/fearless.jpg)](album/fearless)
 [<img src="assets/images/speak_now.jpg" width="225" height="225">](album/speak_now)
 [![Red](assets/images/red.jpg)](album/red)
