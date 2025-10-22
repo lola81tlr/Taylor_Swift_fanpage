@@ -1,7 +1,7 @@
 ---
 title: "reputation"
 layout: default
-album_colour: "#ffffff"
+album_colour: "#545454"
 album_font: "'Oswald', sans-serif"
 font_link: "https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;700&display=swap"
 cover_image: "/assets/images/reputation_cover.jpg"
